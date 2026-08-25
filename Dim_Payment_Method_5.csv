@@ -1,0 +1,6 @@
+Payment_Method_ID,Payment_Method,Description
+1,Auto Debit,Monthly EMI is automatically debited from the customer's bank account.
+2,UPI,Loan EMI paid using a UPI application.
+3,Net Banking,Loan EMI paid through internet banking.
+4,Cash,Loan EMI paid in cash at the bank branch.
+5,Cheque,Loan EMI paid using a cheque deposited at the branch.
