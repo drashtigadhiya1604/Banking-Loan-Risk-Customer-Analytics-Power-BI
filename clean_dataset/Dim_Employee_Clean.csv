@@ -1,0 +1,1001 @@
+Employee_ID,Employee_Name,Gender,Designation,Department,Branch_ID,Experience_Years,Performance_Rating,Salary,Joining_Date,Employment_Status
+EMP0001,Vidhi Seth,Female,Sales Executive,Sales,BR049,25,3.7,876372,2000-10-03,Active
+EMP0002,Hiral Vala,Female,Branch Manager,Management,BR138,6,2.7,1700404,2020-06-09,Active
+EMP0003,Girik Chandra,Male,Senior Loan Officer,Retail Banking,BR167,13,4.9,1289511,2012-09-15,Active
+EMP0004,Max Dhar,Male,Operations Executive,Operations,BR154,3,2.6,562355,2023-03-24,Active
+EMP0005,Anvi Randhawa,Female,Loan Officer,Retail Banking,BR076,19,4.6,1024403,2006-09-05,Active
+EMP0006,Farhan Aurora,Male,Loan Officer,Retail Banking,BR182,9,3.5,833964,2017-06-14,Active
+EMP0007,Ayushman Banik,Male,Senior Loan Officer,Retail Banking,BR028,1,2.7,976369,2024-12-31,Active
+EMP0008,Kavya Balan,Female,Relationship Manager,Retail Banking,BR238,1,4.6,788045,2025-04-08,On Leave
+EMP0009,Omisha Sastry,Female,Loan Officer,Retail Banking,BR051,23,3.5,1004696,2002-09-11,Active
+EMP0010,Yochana Kaur,Female,Loan Officer,Retail Banking,BR035,10,3.3,923428,2016-05-27,Active
+EMP0011,Zaid Agrawal,Male,Relationship Manager,Retail Banking,BR049,15,4.5,1153047,2010-10-15,Active
+EMP0012,Veer Mall,Male,Regional Manager,Management,BR102,25,2.8,3960660,2001-06-01,Active
+EMP0013,Benjamin Kumar,Male,Relationship Manager,Retail Banking,BR048,19,3.3,1437220,2007-04-13,Active
+EMP0014,Ishwar Varghese,Male,Relationship Manager,Retail Banking,BR085,5,3.0,930243,2020-09-16,Active
+EMP0015,Amruta Boase,Female,Relationship Manager,Retail Banking,BR154,3,3.0,951809,2023-07-18,Active
+EMP0016,Suhani Chokshi,Female,Relationship Manager,Retail Banking,BR047,19,3.7,1354403,2007-01-13,Active
+EMP0017,Sanya Bhavsar,Female,Sales Executive,Sales,BR241,20,3.1,750368,2005-09-10,Active
+EMP0018,Aachal Kala,Female,Sales Executive,Sales,BR010,20,2.7,727584,2006-06-04,Active
+EMP0019,Ati Singhal,Female,Loan Officer,Retail Banking,BR126,23,3.5,1081103,2002-09-28,Active
+EMP0020,Rushil Saini,Male,Sales Executive,Sales,BR219,3,2.8,542743,2022-08-25,Active
+EMP0021,Hardik Madan,Male,Loan Officer,Retail Banking,BR115,7,4.4,718727,2018-12-28,Active
+EMP0022,Caleb Mukhopadhyay,Male,Relationship Manager,Retail Banking,BR093,12,3.8,1265372,2014-06-10,Active
+EMP0023,Advika Rout,Female,Regional Manager,Management,BR152,22,4.3,3668024,2004-05-19,Active
+EMP0024,Ekalinga Koshy,Male,Loan Officer,Retail Banking,BR154,12,4.3,965817,2014-07-17,Active
+EMP0025,Aashi Bhasin,Female,Relationship Manager,Retail Banking,BR116,10,3.3,1215358,2016-06-18,Active
+EMP0026,Yagnesh Goel,Male,Sales Executive,Sales,BR091,24,4.3,796281,2002-02-06,Active
+EMP0027,Vanya Upadhyay,Female,Sales Executive,Sales,BR147,14,4.9,643298,2011-11-15,Active
+EMP0028,Ekaja Saini,Female,Loan Officer,Retail Banking,BR030,1,4.0,613289,2024-08-31,Resigned
+EMP0029,Devika Rana,Female,Credit Analyst,Risk,BR113,13,4.8,1371776,2012-12-05,Active
+EMP0030,Hitesh Acharya,Male,Senior Loan Officer,Retail Banking,BR006,17,2.6,1386529,2008-11-24,Active
+EMP0031,Max Bahri,Male,Loan Officer,Retail Banking,BR095,20,4.2,1037149,2006-07-24,Active
+EMP0032,Girik Ramesh,Male,Senior Loan Officer,Retail Banking,BR128,25,4.8,1625396,2000-12-16,Active
+EMP0033,Anvi Dhingra,Female,Loan Officer,Retail Banking,BR226,9,3.0,814090,2017-04-15,Active
+EMP0034,Timothy Kuruvilla,Male,Senior Loan Officer,Retail Banking,BR215,11,3.0,1109511,2015-01-29,Active
+EMP0035,Nitesh Minhas,Male,Credit Analyst,Risk,BR071,9,4.6,1113075,2016-11-27,On Leave
+EMP0036,Bina Borde,Female,Loan Officer,Retail Banking,BR116,17,3.7,945257,2008-09-12,Active
+EMP0037,Hemang Kibe,Male,Loan Officer,Retail Banking,BR091,20,2.6,1083395,2005-10-10,Active
+EMP0038,Qarin Prabhu,Male,Branch Manager,Management,BR061,13,3.6,1886810,2013-03-13,Active
+EMP0039,Devansh Sule,Male,Regional Manager,Management,BR164,4,3.6,2528046,2021-08-24,Active
+EMP0040,Reyansh Goswami,Male,Credit Analyst,Risk,BR194,7,4.6,1093414,2019-07-21,Active
+EMP0041,Nachiket Kari,Male,Relationship Manager,Retail Banking,BR129,9,4.4,1088068,2016-11-02,Active
+EMP0042,Girish Dutt,Male,Loan Officer,Retail Banking,BR034,23,4.8,1007809,2003-01-13,Active
+EMP0043,Rishi Subramanian,Male,Branch Manager,Management,BR204,1,3.4,1566263,2024-11-09,Active
+EMP0044,Ucchal Batta,Female,Loan Officer,Retail Banking,BR237,21,5.0,974520,2004-09-04,Active
+EMP0045,Chatura Barad,Male,Loan Officer,Retail Banking,BR203,13,5.0,989758,2012-10-26,On Leave
+EMP0046,Kashvi Ramanathan,Female,Sales Executive,Sales,BR088,1,3.4,472025,2024-12-11,Active
+EMP0047,Ucchal Swaminathan,Female,Loan Officer,Retail Banking,BR205,1,3.0,718714,2024-12-17,Active
+EMP0048,Yoshita Gill,Female,Credit Analyst,Risk,BR216,5,3.7,1201711,2020-11-02,Active
+EMP0049,Edhitha Kari,Female,Sales Executive,Sales,BR113,16,3.9,767981,2010-04-06,Active
+EMP0050,Bina Mammen,Female,Operations Executive,Operations,BR066,18,4.1,850859,2007-10-16,Active
+EMP0051,Ishani Babu,Female,Regional Manager,Management,BR135,20,3.0,3766942,2005-10-24,Active
+EMP0052,Lipika Sabharwal,Female,Loan Officer,Retail Banking,BR008,18,2.8,901888,2008-01-17,Active
+EMP0053,Jeet Bhasin,Male,Senior Loan Officer,Retail Banking,BR126,13,3.9,1373448,2013-05-26,Active
+EMP0054,Gaurang Manda,Male,Relationship Manager,Retail Banking,BR069,18,3.6,1419160,2008-01-04,Active
+EMP0055,Zilmil Deep,Female,Relationship Manager,Retail Banking,BR135,14,4.8,1312175,2011-11-27,Active
+EMP0056,Pratyush Devi,Male,Loan Officer,Retail Banking,BR010,1,4.8,619884,2025-07-13,Active
+EMP0057,Noah Vig,Male,Relationship Manager,Retail Banking,BR128,10,3.3,1073031,2015-09-13,Active
+EMP0058,Anay Badami,Male,Sales Executive,Sales,BR225,20,3.1,751636,2005-10-31,Active
+EMP0059,Rachita Muni,Female,Branch Manager,Management,BR137,17,4.0,2282297,2008-09-08,Active
+EMP0060,Advaith Borde,Male,Sales Executive,Sales,BR208,20,4.0,741834,2005-09-11,Active
+EMP0061,Bahadurjit Mukhopadhyay,Male,Loan Officer,Retail Banking,BR228,11,4.7,811711,2015-04-19,Active
+EMP0062,Ekansh Bora,Male,Relationship Manager,Retail Banking,BR140,3,3.1,851827,2022-12-22,Active
+EMP0063,Upkaar Pillai,Male,Loan Officer,Retail Banking,BR146,21,4.2,957313,2005-04-18,Active
+EMP0064,Eiravati Om,Female,Relationship Manager,Retail Banking,BR214,17,4.1,1243325,2008-08-11,Active
+EMP0065,Brijesh Solanki,Male,Loan Officer,Retail Banking,BR232,1,2.6,676418,2024-11-03,Active
+EMP0066,Sathvik Balan,Male,Relationship Manager,Retail Banking,BR238,4,3.0,1016776,2022-03-03,Active
+EMP0067,Abhimanyu Raja,Male,Relationship Manager,Retail Banking,BR101,22,3.7,1485704,2004-02-13,Active
+EMP0068,Abha Bora,Female,Loan Officer,Retail Banking,BR217,20,3.4,1067873,2006-07-09,Active
+EMP0069,Chandani D’Alia,Female,Loan Officer,Retail Banking,BR043,24,3.4,1212328,2001-09-24,Active
+EMP0070,Sathvik Narayanan,Male,Loan Officer,Retail Banking,BR241,3,4.5,737501,2022-09-06,Active
+EMP0071,Veer Sastry,Male,Senior Loan Officer,Retail Banking,BR191,11,4.5,1139128,2015-05-29,Active
+EMP0072,Benjamin Venkataraman,Male,Operations Executive,Operations,BR178,13,2.8,738493,2012-10-25,Active
+EMP0073,Nilima Chahal,Female,Operations Executive,Operations,BR078,13,3.0,716308,2013-02-03,Active
+EMP0074,Advay Karpe,Male,Sales Executive,Sales,BR242,21,4.8,741579,2005-03-12,Resigned
+EMP0075,Yadavi Sunder,Female,Loan Officer,Retail Banking,BR100,22,3.5,1010367,2004-06-20,Active
+EMP0076,Aashi Pillai,Female,Branch Manager,Management,BR006,23,2.8,2481954,2002-10-09,Active
+EMP0077,Ekbal Jain,Male,Credit Analyst,Risk,BR166,9,3.6,1207648,2017-04-17,Active
+EMP0078,Onveer Sathe,Male,Loan Officer,Retail Banking,BR107,9,4.8,833764,2016-11-08,Resigned
+EMP0079,Jai Narain,Male,Branch Manager,Management,BR099,21,2.7,2492695,2005-07-06,On Leave
+EMP0080,Jeremiah Issac,Male,Loan Officer,Retail Banking,BR015,6,4.6,773435,2019-09-24,Active
+EMP0081,Irya Kala,Female,Loan Officer,Retail Banking,BR074,17,3.5,944673,2008-10-30,Active
+EMP0082,Januja Nadig,Female,Senior Loan Officer,Retail Banking,BR004,10,4.2,1227973,2016-07-13,Active
+EMP0083,Ekansh Desai,Male,Branch Manager,Management,BR192,14,4.4,2083121,2012-02-17,Active
+EMP0084,Pushti Baria,Female,Relationship Manager,Retail Banking,BR012,8,3.6,1049279,2018-03-24,Active
+EMP0085,Manya Gara,Female,Relationship Manager,Retail Banking,BR107,8,4.0,972861,2017-09-10,Active
+EMP0086,Umang Sinha,Male,Sales Executive,Sales,BR036,12,3.8,628908,2013-12-13,Active
+EMP0087,Jalsa Sachdev,Female,Branch Manager,Management,BR209,21,4.0,2405651,2004-10-31,Resigned
+EMP0088,Yoshita Tak,Female,Credit Analyst,Risk,BR201,8,3.7,1178694,2018-02-18,Active
+EMP0089,Varsha Nagi,Female,Loan Officer,Retail Banking,BR049,20,4.2,1053497,2005-09-30,Active
+EMP0090,Amol Mall,Male,Relationship Manager,Retail Banking,BR225,8,3.8,1086239,2018-04-17,Active
+EMP0091,Logan Pandya,Male,Relationship Manager,Retail Banking,BR057,9,3.6,1106131,2017-06-04,Active
+EMP0092,Aditya Deshpande,Male,Operations Executive,Operations,BR124,22,2.9,864566,2004-01-20,Active
+EMP0093,Utkarsh Gupta,Male,Loan Officer,Retail Banking,BR206,16,4.4,1027137,2010-06-20,Active
+EMP0094,Kiaan Khanna,Male,Loan Officer,Retail Banking,BR040,24,3.1,1187288,2002-01-23,Active
+EMP0095,Arunima D’Alia,Female,Loan Officer,Retail Banking,BR168,25,4.4,1233237,2000-12-24,Active
+EMP0096,Chatura Wason,Male,Loan Officer,Retail Banking,BR146,11,2.7,792404,2014-10-12,Active
+EMP0097,Brinda Hora,Female,Loan Officer,Retail Banking,BR155,25,2.5,1094308,2000-08-26,Active
+EMP0098,Vyanjana Kunda,Female,Loan Officer,Retail Banking,BR057,25,4.2,1088113,2001-05-18,Active
+EMP0099,Aashi Sodhi,Female,Loan Officer,Retail Banking,BR236,4,3.3,719406,2021-09-24,On Leave
+EMP0100,Hemal Kara,Female,Loan Officer,Retail Banking,BR064,10,3.6,797885,2015-11-05,Active
+EMP0101,Prisha Zacharia,Female,Relationship Manager,Retail Banking,BR190,22,3.5,1379275,2004-04-21,Active
+EMP0102,Shravya Kapur,Female,Senior Loan Officer,Retail Banking,BR226,19,3.9,1321604,2006-12-09,Active
+EMP0103,Samesh Rama,Male,Loan Officer,Retail Banking,BR167,2,3.9,698296,2024-07-13,Active
+EMP0104,Varenya Setty,Female,Relationship Manager,Retail Banking,BR021,18,3.3,1320900,2008-02-08,Active
+EMP0105,Aarush Puri,Male,Sales Executive,Sales,BR191,3,2.6,561735,2023-06-06,Active
+EMP0106,Vedika Narain,Female,Loan Officer,Retail Banking,BR196,8,3.7,871727,2018-02-03,Active
+EMP0107,Chavvi Dasgupta,Female,Loan Officer,Retail Banking,BR207,11,4.2,863404,2014-10-25,Active
+EMP0108,Jairaj Ramakrishnan,Male,Loan Officer,Retail Banking,BR214,22,3.4,971934,2004-01-18,Active
+EMP0109,Nilima Yadav,Female,Regional Manager,Management,BR206,21,2.6,3487064,2005-07-24,Active
+EMP0110,Lekha Babu,Female,Sales Executive,Sales,BR176,8,4.4,680885,2018-01-15,Active
+EMP0111,Zayyan Butala,Male,Loan Officer,Retail Banking,BR121,17,3.2,1073713,2009-06-28,Active
+EMP0112,Thomas Oommen,Male,Loan Officer,Retail Banking,BR193,5,4.4,699575,2021-06-24,Active
+EMP0113,Mahika Sura,Female,Sales Executive,Sales,BR056,2,3.3,497948,2024-01-23,Active
+EMP0114,Janani Bhatt,Female,Senior Loan Officer,Retail Banking,BR045,8,3.6,1204057,2018-01-01,On Leave
+EMP0115,Anika Ghose,Female,Branch Manager,Management,BR235,18,3.7,2199334,2008-01-04,Resigned
+EMP0116,Ekaraj Singhal,Male,Loan Officer,Retail Banking,BR206,8,3.5,760448,2018-05-19,Active
+EMP0117,Yauvani Vasa,Female,Operations Executive,Operations,BR224,2,4.1,552405,2024-07-19,Active
+EMP0118,Xiti Chadha,Female,Loan Officer,Retail Banking,BR107,8,4.3,823099,2018-05-07,Active
+EMP0119,Urvashi Vyas,Female,Relationship Manager,Retail Banking,BR069,17,2.8,1345537,2008-09-14,Active
+EMP0120,Fitan Virk,Male,Relationship Manager,Retail Banking,BR211,25,2.9,1399529,2001-05-15,Active
+EMP0121,Nimrat Raj,Female,Loan Officer,Retail Banking,BR120,23,3.8,1184107,2002-08-09,Active
+EMP0122,Nidra Dhaliwal,Female,Relationship Manager,Retail Banking,BR201,7,3.5,1114227,2019-06-10,Active
+EMP0123,Yuvraj Iyer,Male,Relationship Manager,Retail Banking,BR081,14,3.8,1124332,2012-02-19,Active
+EMP0124,Dakshesh Thakur,Male,Senior Loan Officer,Retail Banking,BR176,15,4.2,1191997,2011-06-20,Active
+EMP0125,Saanvi Bala,Female,Credit Analyst,Risk,BR114,24,4.9,1741759,2001-08-30,Active
+EMP0126,Yauvani Rattan,Female,Credit Analyst,Risk,BR198,16,3.1,1424029,2009-12-06,Active
+EMP0127,Yatan Chander,Male,Sales Executive,Sales,BR192,5,3.2,560738,2020-10-22,Active
+EMP0128,Bhavini Yohannan,Female,Operations Executive,Operations,BR097,18,4.2,805742,2008-04-17,Active
+EMP0129,Triveni Raval,Female,Loan Officer,Retail Banking,BR115,9,3.9,862448,2017-02-07,Active
+EMP0130,Jatin Solanki,Male,Relationship Manager,Retail Banking,BR046,20,2.7,1408333,2005-08-01,Active
+EMP0131,Eesha Nori,Female,Relationship Manager,Retail Banking,BR009,15,4.0,1131459,2011-04-03,Active
+EMP0132,Wazir Vohra,Male,Loan Officer,Retail Banking,BR238,25,2.7,1233190,2000-12-24,Active
+EMP0133,Chatura Handa,Male,Operations Executive,Operations,BR160,23,3.5,898159,2002-12-31,Active
+EMP0134,Amruta Lad,Female,Branch Manager,Management,BR156,11,5.0,2110578,2014-08-23,Active
+EMP0135,Alka Banik,Female,Loan Officer,Retail Banking,BR097,11,3.3,854339,2014-10-15,Active
+EMP0136,Garima Karan,Female,Operations Executive,Operations,BR232,4,4.0,573907,2021-10-23,Active
+EMP0137,Lucky Nagy,Male,Loan Officer,Retail Banking,BR239,17,3.8,996056,2009-04-18,Active
+EMP0138,Jason Tara,Male,Senior Loan Officer,Retail Banking,BR035,1,4.1,870990,2025-06-12,Active
+EMP0139,Yahvi Das,Female,Credit Analyst,Risk,BR119,11,2.7,1357633,2015-03-13,Active
+EMP0140,Ira Wali,Female,Regional Manager,Management,BR144,5,3.1,2565078,2020-10-19,Active
+EMP0141,Alka Prashad,Female,Relationship Manager,Retail Banking,BR038,24,5.0,1554840,2001-09-26,Active
+EMP0142,Fariq Yohannan,Male,Loan Officer,Retail Banking,BR048,12,3.1,897009,2014-05-04,Active
+EMP0143,Ikbal Wagle,Male,Loan Officer,Retail Banking,BR036,13,3.0,991502,2012-08-24,Active
+EMP0144,Ekanta Kaul,Female,Branch Manager,Management,BR106,21,4.5,2208494,2005-04-18,Active
+EMP0145,Gautam Mutti,Male,Senior Loan Officer,Retail Banking,BR034,4,3.9,942215,2021-11-01,Active
+EMP0146,Indali Kamdar,Female,Relationship Manager,Retail Banking,BR246,2,4.3,952809,2023-12-31,Active
+EMP0147,Chanakya Desai,Male,Loan Officer,Retail Banking,BR195,14,4.7,999250,2011-10-12,Active
+EMP0148,Ekaja Chakrabarti,Female,Loan Officer,Retail Banking,BR212,15,4.6,1009426,2010-12-31,Active
+EMP0149,Rishi Chatterjee,Male,Sales Executive,Sales,BR232,17,3.3,758122,2008-12-25,Active
+EMP0150,Shivansh Date,Male,Loan Officer,Retail Banking,BR083,20,4.8,1088257,2005-09-27,Active
+EMP0151,Tamanna Badami,Female,Sales Executive,Sales,BR129,3,3.1,582537,2023-03-23,Active
+EMP0152,Harish Parmar,Male,Loan Officer,Retail Banking,BR169,4,3.8,690019,2022-02-19,Active
+EMP0153,Dalbir Tiwari,Male,Sales Executive,Sales,BR108,24,4.9,888500,2001-10-24,Active
+EMP0154,Zayan Gulati,Male,Loan Officer,Retail Banking,BR026,24,3.6,1033630,2002-06-24,Active
+EMP0155,Wridesh Cherian,Male,Relationship Manager,Retail Banking,BR063,18,3.9,1296744,2008-02-28,Active
+EMP0156,Anirudh Varma,Male,Loan Officer,Retail Banking,BR102,3,3.6,701420,2022-10-27,Active
+EMP0157,Ethan Gupta,Male,Relationship Manager,Retail Banking,BR128,1,3.6,842893,2025-02-08,Active
+EMP0158,Deepa Jani,Female,Sales Executive,Sales,BR051,7,3.2,656140,2019-06-26,Active
+EMP0159,Gaurangi Mandal,Female,Sales Executive,Sales,BR052,1,2.9,554110,2024-10-11,Active
+EMP0160,Azaan Desai,Male,Relationship Manager,Retail Banking,BR247,2,4.1,866055,2024-02-15,On Leave
+EMP0161,Brinda Chatterjee,Female,Credit Analyst,Risk,BR107,5,3.3,1192343,2020-12-10,Active
+EMP0162,Rohan Sibal,Male,Sales Executive,Sales,BR185,4,4.3,526004,2022-04-24,Active
+EMP0163,Yasti Pant,Female,Operations Executive,Operations,BR152,12,4.5,751651,2014-05-29,Active
+EMP0164,Jagrati Prakash,Female,Sales Executive,Sales,BR171,6,4.2,563666,2019-09-02,Active
+EMP0165,Anmol Iyer,Male,Loan Officer,Retail Banking,BR154,17,2.7,1061471,2009-07-25,Active
+EMP0166,Tanvi Setty,Female,Loan Officer,Retail Banking,BR063,19,2.7,976649,2007-04-23,Active
+EMP0167,Qasim Ravi,Male,Relationship Manager,Retail Banking,BR235,5,5.0,886321,2020-12-01,Active
+EMP0168,Gayathri Chandran,Female,Relationship Manager,Retail Banking,BR233,16,2.7,1148309,2009-09-01,Active
+EMP0169,Ojasvi Chad,Female,Operations Executive,Operations,BR176,17,3.2,884826,2008-09-07,Resigned
+EMP0170,Girish Thaman,Male,Senior Loan Officer,Retail Banking,BR172,25,2.9,1609044,2001-04-01,Active
+EMP0171,Leela Mammen,Female,Operations Executive,Operations,BR219,24,3.1,943941,2002-04-08,Active
+EMP0172,Gauri Ravi,Female,Loan Officer,Retail Banking,BR115,7,4.0,820275,2018-10-06,Active
+EMP0173,Nitesh Yohannan,Male,Loan Officer,Retail Banking,BR129,20,2.5,1039189,2005-12-19,Active
+EMP0174,Upma Golla,Female,Sales Executive,Sales,BR164,1,2.7,556952,2024-10-06,Active
+EMP0175,Harshil Goyal,Male,Branch Manager,Management,BR210,2,3.3,1444457,2024-02-15,Active
+EMP0176,Panini Mitra,Female,Operations Executive,Operations,BR097,16,2.7,866187,2010-05-02,Active
+EMP0177,Chandresh Anne,Male,Loan Officer,Retail Banking,BR081,22,4.6,1140870,2004-06-28,Active
+EMP0178,Arya Kata,Female,Credit Analyst,Risk,BR194,23,4.9,1458473,2002-11-22,Active
+EMP0179,Mason Nazareth,Male,Relationship Manager,Retail Banking,BR062,15,3.8,1352210,2011-07-27,Active
+EMP0180,Samaksh Gopal,Male,Relationship Manager,Retail Banking,BR249,18,3.2,1289218,2008-06-19,Active
+EMP0181,Robert Varma,Male,Loan Officer,Retail Banking,BR023,4,3.9,690388,2021-12-01,On Leave
+EMP0182,Jalsa Dar,Female,Loan Officer,Retail Banking,BR167,20,3.0,969365,2005-10-03,Resigned
+EMP0183,Alka Contractor,Female,Senior Loan Officer,Retail Banking,BR240,19,4.8,1321799,2007-01-09,Active
+EMP0184,Kashish Kunda,Female,Loan Officer,Retail Banking,BR204,2,3.0,667973,2024-04-21,Active
+EMP0185,Sai Thaman,Male,Loan Officer,Retail Banking,BR121,13,3.0,897665,2013-02-20,Active
+EMP0186,Guneet Prashad,Male,Sales Executive,Sales,BR177,7,3.9,595220,2019-07-02,Active
+EMP0187,Chavvi Kuruvilla,Female,Branch Manager,Management,BR146,17,3.0,2157338,2009-01-08,On Leave
+EMP0188,Lakshit Om,Male,Loan Officer,Retail Banking,BR036,12,2.6,924323,2014-01-24,Active
+EMP0189,Chandresh Saxena,Male,Relationship Manager,Retail Banking,BR084,11,4.6,1119180,2015-01-13,Active
+EMP0190,Arin Raju,Male,Loan Officer,Retail Banking,BR132,20,3.1,944491,2006-05-13,Active
+EMP0191,Reyansh Sodhi,Male,Loan Officer,Retail Banking,BR133,14,3.6,931119,2012-05-19,Active
+EMP0192,Yachana Bhardwaj,Female,Loan Officer,Retail Banking,BR214,15,4.2,875995,2011-04-15,Active
+EMP0193,Yachana Salvi,Female,Loan Officer,Retail Banking,BR075,13,3.8,877409,2013-06-05,Active
+EMP0194,Ryan Muni,Male,Relationship Manager,Retail Banking,BR208,1,4.4,872492,2025-07-19,Active
+EMP0195,Zilmil Mangal,Female,Credit Analyst,Risk,BR091,3,4.8,976726,2022-08-07,Active
+EMP0196,Lopa Mander,Female,Loan Officer,Retail Banking,BR101,21,3.1,1122974,2005-05-29,Active
+EMP0197,Amara Atwal,Female,Loan Officer,Retail Banking,BR041,11,3.2,899656,2015-04-05,On Leave
+EMP0198,Ansh Dugar,Male,Loan Officer,Retail Banking,BR024,6,3.4,799568,2019-11-02,Active
+EMP0199,Saumya Bera,Female,Operations Executive,Operations,BR079,16,4.0,846783,2009-10-18,Active
+EMP0200,Rushil Bedi,Male,Sales Executive,Sales,BR070,4,3.4,511049,2021-12-30,Active
+EMP0201,Bina Kapur,Female,Operations Executive,Operations,BR019,10,3.7,690051,2016-03-19,Active
+EMP0202,Waida Krishna,Female,Loan Officer,Retail Banking,BR228,12,3.9,841903,2013-08-19,Active
+EMP0203,Aradhana Virk,Female,Loan Officer,Retail Banking,BR182,11,4.9,840747,2014-10-06,On Leave
+EMP0204,Vivaan Dhawan,Male,Branch Manager,Management,BR071,20,3.9,2454150,2006-06-27,Active
+EMP0205,Deepa Bedi,Female,Sales Executive,Sales,BR175,13,4.9,679011,2013-05-19,Active
+EMP0206,Vasatika Dalal,Female,Loan Officer,Retail Banking,BR070,16,4.9,894632,2010-04-21,Active
+EMP0207,Atharv Parikh,Male,Loan Officer,Retail Banking,BR062,1,4.8,733744,2025-07-23,Active
+EMP0208,David Patla,Male,Branch Manager,Management,BR068,18,4.7,2398291,2008-02-09,Active
+EMP0209,Ekaraj Saha,Male,Loan Officer,Retail Banking,BR247,23,3.0,1075702,2003-05-11,Active
+EMP0210,Karan Saini,Male,Relationship Manager,Retail Banking,BR095,20,4.2,1442957,2006-03-01,Active
+EMP0211,Zilmil Devan,Female,Credit Analyst,Risk,BR084,18,3.7,1505793,2008-01-25,Active
+EMP0212,Devansh Khare,Male,Sales Executive,Sales,BR029,3,4.5,587031,2023-02-17,Active
+EMP0213,Deepa Thakur,Female,Relationship Manager,Retail Banking,BR089,20,4.7,1460593,2006-07-02,Active
+EMP0214,Yashica Parmer,Female,Loan Officer,Retail Banking,BR047,21,3.1,1105212,2005-02-12,Active
+EMP0215,Laban Gupta,Male,Operations Executive,Operations,BR033,5,3.9,622455,2020-07-29,Active
+EMP0216,Kashvi Gupta,Female,Operations Executive,Operations,BR060,5,3.0,647829,2021-02-26,Active
+EMP0217,Zayan Hayre,Male,Loan Officer,Retail Banking,BR069,23,4.9,1201853,2003-05-23,Active
+EMP0218,Bhavani Andra,Female,Loan Officer,Retail Banking,BR013,22,3.5,1172522,2004-05-19,Active
+EMP0219,Kai Sandal,Male,Sales Executive,Sales,BR104,7,3.2,632979,2019-05-26,Active
+EMP0220,Anirudh Chaudry,Male,Operations Executive,Operations,BR205,16,2.9,743569,2009-12-16,Active
+EMP0221,Maya Bora,Female,Loan Officer,Retail Banking,BR100,24,4.0,1177337,2001-10-08,Active
+EMP0222,Faris Keer,Male,Senior Loan Officer,Retail Banking,BR239,5,3.6,1104104,2020-10-14,Active
+EMP0223,Warhi Srinivas,Female,Loan Officer,Retail Banking,BR146,5,3.3,675627,2020-10-09,Active
+EMP0224,Jagrati Nigam,Female,Loan Officer,Retail Banking,BR067,8,2.7,757817,2017-10-17,Active
+EMP0225,Yug Deol,Male,Relationship Manager,Retail Banking,BR087,25,3.3,1362079,2001-04-28,Active
+EMP0226,Darpan Sem,Male,Regional Manager,Management,BR102,14,3.7,3070625,2011-10-15,Active
+EMP0227,Tristan Samra,Male,Senior Loan Officer,Retail Banking,BR241,22,4.6,1420027,2004-04-24,Active
+EMP0228,Robert Dora,Male,Regional Manager,Management,BR046,15,3.9,3471229,2011-07-04,Active
+EMP0229,Faraj Nanda,Male,Senior Loan Officer,Retail Banking,BR080,22,2.7,1451847,2003-10-19,Active
+EMP0230,Hiral Sane,Female,Relationship Manager,Retail Banking,BR068,7,2.7,1000631,2018-10-30,Active
+EMP0231,Chasmum Shere,Female,Loan Officer,Retail Banking,BR240,18,4.6,1054594,2008-06-07,Resigned
+EMP0232,Chaaya Chacko,Female,Operations Executive,Operations,BR003,14,3.1,844985,2012-07-15,Active
+EMP0233,Xavier Sheth,Male,Loan Officer,Retail Banking,BR161,24,3.4,1153097,2002-01-25,Active
+EMP0234,Aarna Borra,Female,Loan Officer,Retail Banking,BR068,3,4.8,683224,2023-06-07,Active
+EMP0235,Hredhaan Bumb,Male,Loan Officer,Retail Banking,BR046,24,2.8,1074282,2002-04-16,Active
+EMP0236,Yug Narang,Male,Relationship Manager,Retail Banking,BR129,12,3.0,1045484,2014-01-04,Active
+EMP0237,Ekbal Kanda,Male,Loan Officer,Retail Banking,BR226,18,4.6,1053350,2008-07-18,Active
+EMP0238,Nihal Peri,Male,Operations Executive,Operations,BR247,4,3.9,594012,2021-11-25,On Leave
+EMP0239,Ojasvi Sastry,Female,Loan Officer,Retail Banking,BR174,23,4.7,1167174,2003-06-25,Active
+EMP0240,Urvashi Wagle,Female,Sales Executive,Sales,BR187,25,3.4,960657,2001-05-16,Active
+EMP0241,Vasudha Nadkarni,Female,Sales Executive,Sales,BR220,2,3.0,542324,2023-12-12,Active
+EMP0242,Sudiksha Varty,Female,Senior Loan Officer,Retail Banking,BR191,19,4.8,1306015,2006-08-10,Active
+EMP0243,Chaman Pathak,Female,Loan Officer,Retail Banking,BR147,13,3.8,880994,2012-10-23,Active
+EMP0244,Advik Patla,Male,Senior Loan Officer,Retail Banking,BR014,15,3.6,1329368,2010-09-27,On Leave
+EMP0245,Rishi Hayer,Male,Senior Loan Officer,Retail Banking,BR049,11,5.0,1253975,2015-02-17,Active
+EMP0246,Saumya Zachariah,Female,Relationship Manager,Retail Banking,BR060,5,4.4,1055182,2021-05-30,Active
+EMP0247,Gaurang Goda,Male,Operations Executive,Operations,BR048,4,3.8,676821,2022-06-22,Active
+EMP0248,Vasana Manda,Female,Loan Officer,Retail Banking,BR051,12,3.6,890421,2013-12-21,Active
+EMP0249,Indrajit Varty,Male,Relationship Manager,Retail Banking,BR019,18,3.6,1376298,2008-03-27,Active
+EMP0250,Fariq Merchant,Male,Operations Executive,Operations,BR208,18,4.9,773433,2008-05-12,Active
+EMP0251,Siddharth Bhatt,Male,Loan Officer,Retail Banking,BR031,12,4.9,834422,2014-03-02,Active
+EMP0252,Chaman Natt,Female,Relationship Manager,Retail Banking,BR023,22,4.0,1524386,2004-06-23,Resigned
+EMP0253,Laksh Cheema,Male,Senior Loan Officer,Retail Banking,BR144,11,4.7,1251500,2015-04-18,Active
+EMP0254,Chaman Bal,Female,Loan Officer,Retail Banking,BR169,11,4.2,924090,2015-03-07,Active
+EMP0255,Chanakya Sami,Male,Relationship Manager,Retail Banking,BR034,5,2.9,993244,2021-07-04,Active
+EMP0256,Januja Suresh,Female,Sales Executive,Sales,BR018,20,4.1,769158,2006-07-25,Active
+EMP0257,Veda Ramesh,Female,Sales Executive,Sales,BR069,25,3.5,813097,2000-09-10,Active
+EMP0258,Pahal Natarajan,Female,Loan Officer,Retail Banking,BR132,5,3.8,813527,2021-01-29,Active
+EMP0259,Yatin Sura,Male,Loan Officer,Retail Banking,BR244,4,3.2,782256,2022-03-01,Active
+EMP0260,Aradhana Roy,Female,Loan Officer,Retail Banking,BR057,16,3.5,1008809,2009-09-24,Active
+EMP0261,Aarav Radhakrishnan,Male,Loan Officer,Retail Banking,BR075,11,3.2,854281,2015-03-12,Active
+EMP0262,Vincent Bajwa,Male,Credit Analyst,Risk,BR230,8,2.5,1148510,2017-09-26,Active
+EMP0263,Aashi Choudhary,Female,Loan Officer,Retail Banking,BR027,11,2.8,930220,2014-09-28,Active
+EMP0264,Shivansh Dhingra,Male,Loan Officer,Retail Banking,BR008,7,2.7,765041,2019-01-16,Active
+EMP0265,Gautami Prashad,Female,Regional Manager,Management,BR093,1,4.2,2109965,2025-06-17,Active
+EMP0266,Oeshi Jayaraman,Female,Loan Officer,Retail Banking,BR203,21,4.0,1159179,2005-07-19,Active
+EMP0267,Simon Wadhwa,Male,Branch Manager,Management,BR168,23,2.8,2310651,2002-12-06,Active
+EMP0268,Laksh Bhargava,Male,Senior Loan Officer,Retail Banking,BR132,19,3.0,1376235,2007-05-17,Active
+EMP0269,Mitesh Contractor,Male,Relationship Manager,Retail Banking,BR170,21,4.2,1464842,2005-03-22,Active
+EMP0270,Garima Gola,Female,Operations Executive,Operations,BR221,4,3.6,573594,2022-01-17,Active
+EMP0271,Veer Badal,Male,Relationship Manager,Retail Banking,BR199,14,3.8,1215127,2012-06-01,Active
+EMP0272,Anita Munshi,Female,Regional Manager,Management,BR170,19,2.8,3500887,2007-05-24,Active
+EMP0273,Ira Gour,Female,Loan Officer,Retail Banking,BR014,25,3.1,1158152,2000-12-04,Resigned
+EMP0274,Janani Keer,Female,Relationship Manager,Retail Banking,BR208,4,3.6,1018780,2022-06-02,Active
+EMP0275,Isaac Sathe,Male,Relationship Manager,Retail Banking,BR247,19,3.8,1309529,2006-09-19,Active
+EMP0276,Logan Rau,Male,Loan Officer,Retail Banking,BR189,1,3.1,709285,2025-05-29,Active
+EMP0277,Nimrat Srinivas,Female,Relationship Manager,Retail Banking,BR077,17,4.0,1259102,2008-11-18,On Leave
+EMP0278,Xavier Rau,Male,Loan Officer,Retail Banking,BR169,10,2.7,804579,2016-05-30,On Leave
+EMP0279,Charita Subramanian,Female,Sales Executive,Sales,BR146,7,4.1,651788,2019-05-17,Resigned
+EMP0280,Ryan Bawa,Male,Loan Officer,Retail Banking,BR095,10,3.2,861860,2016-04-05,Active
+EMP0281,Ekani Rajan,Female,Loan Officer,Retail Banking,BR080,21,3.6,1049078,2005-07-04,Active
+EMP0282,Ayush Khanna,Male,Relationship Manager,Retail Banking,BR173,13,3.9,1157808,2013-04-04,Active
+EMP0283,Vrishti Prabhu,Female,Relationship Manager,Retail Banking,BR125,12,3.7,1093648,2013-10-31,Active
+EMP0284,Krishna Sama,Female,Loan Officer,Retail Banking,BR094,4,2.5,741593,2022-03-21,Resigned
+EMP0285,Triya Dugar,Female,Operations Executive,Operations,BR048,7,4.0,677403,2019-02-15,Active
+EMP0286,Eta Lad,Female,Relationship Manager,Retail Banking,BR166,3,3.0,943077,2022-12-20,Active
+EMP0287,Lila Varty,Female,Relationship Manager,Retail Banking,BR213,19,4.2,1223860,2007-04-05,Active
+EMP0288,Faqid Gokhale,Male,Loan Officer,Retail Banking,BR196,5,4.5,768769,2021-06-26,Active
+EMP0289,Ishani Dixit,Female,Branch Manager,Management,BR158,18,2.8,2236102,2008-07-17,On Leave
+EMP0290,Benjamin Pandey,Male,Senior Loan Officer,Retail Banking,BR174,1,4.6,923137,2025-02-03,Active
+EMP0291,Chanakya Srinivasan,Male,Relationship Manager,Retail Banking,BR194,3,3.6,973114,2023-01-13,Active
+EMP0292,Chakrika Toor,Female,Operations Executive,Operations,BR214,15,3.3,834933,2011-06-22,Active
+EMP0293,Adya Guha,Female,Credit Analyst,Risk,BR080,18,4.3,1522394,2008-01-07,Active
+EMP0294,Gopal Chand,Male,Sales Executive,Sales,BR215,7,2.7,583721,2019-05-16,On Leave
+EMP0295,Hemang Barad,Male,Sales Executive,Sales,BR052,16,3.5,798696,2010-01-16,Active
+EMP0296,Zansi Talwar,Female,Loan Officer,Retail Banking,BR027,23,4.5,1101030,2002-11-26,Active
+EMP0297,Nachiket Mutti,Male,Operations Executive,Operations,BR167,11,3.0,709008,2015-05-05,Active
+EMP0298,Tanmayi Borra,Female,Loan Officer,Retail Banking,BR038,19,4.6,991571,2006-10-04,Active
+EMP0299,Vinaya Bhavsar,Female,Loan Officer,Retail Banking,BR187,23,3.7,1127584,2003-02-01,Active
+EMP0300,Baljiwan Dey,Male,Loan Officer,Retail Banking,BR184,3,4.5,673755,2023-03-23,Active
+EMP0301,Ronith Shenoy,Male,Senior Loan Officer,Retail Banking,BR031,14,4.8,1266698,2011-11-21,Active
+EMP0302,Tristan Arora,Male,Credit Analyst,Risk,BR091,17,4.6,1301112,2008-08-05,Active
+EMP0303,Vyanjana Khanna,Female,Loan Officer,Retail Banking,BR207,5,3.6,817888,2021-01-24,Active
+EMP0304,Dakshesh Shanker,Male,Operations Executive,Operations,BR089,7,5.0,713569,2018-09-17,Active
+EMP0305,Harshil Doshi,Male,Senior Loan Officer,Retail Banking,BR156,12,4.2,1190712,2014-03-01,Active
+EMP0306,Riya Zacharia,Female,Relationship Manager,Retail Banking,BR171,12,2.6,1164602,2014-03-20,Active
+EMP0307,Pahal Ramanathan,Female,Senior Loan Officer,Retail Banking,BR204,9,3.7,1091020,2017-03-03,Active
+EMP0308,Kabir Gulati,Male,Sales Executive,Sales,BR157,6,4.6,595242,2020-05-19,Active
+EMP0309,Raghav Choudhary,Male,Senior Loan Officer,Retail Banking,BR067,22,4.3,1520664,2003-09-07,Active
+EMP0310,Nilima Mahal,Female,Sales Executive,Sales,BR116,12,4.1,685785,2013-11-23,Active
+EMP0311,Oni Sekhon,Female,Credit Analyst,Risk,BR227,21,3.8,1568946,2005-02-01,Active
+EMP0312,Chakradhar Chaudry,Male,Senior Loan Officer,Retail Banking,BR027,22,4.4,1434935,2004-07-28,On Leave
+EMP0313,Champak Deep,Male,Relationship Manager,Retail Banking,BR243,12,3.3,1242033,2014-06-26,Active
+EMP0314,Gautam Hans,Male,Relationship Manager,Retail Banking,BR250,14,3.9,1323550,2011-08-12,Active
+EMP0315,Andrew Sheth,Male,Loan Officer,Retail Banking,BR157,22,3.0,1084762,2004-01-30,Active
+EMP0316,Chandresh Karan,Male,Sales Executive,Sales,BR178,4,3.5,558420,2022-06-15,Active
+EMP0317,Farhan Dash,Male,Relationship Manager,Retail Banking,BR241,10,3.1,1042990,2016-03-09,Active
+EMP0318,Samar Bora,Male,Sales Executive,Sales,BR147,1,4.0,545431,2024-08-07,Active
+EMP0319,Unni Vaidya,Female,Sales Executive,Sales,BR028,3,4.4,507627,2023-07-09,Active
+EMP0320,Ishanvi Divan,Female,Regional Manager,Management,BR177,1,3.5,2106979,2025-04-20,Active
+EMP0321,Wyatt Narula,Male,Relationship Manager,Retail Banking,BR214,3,4.9,873908,2023-01-04,Active
+EMP0322,Advika Rattan,Female,Loan Officer,Retail Banking,BR068,12,3.5,954457,2014-03-26,Active
+EMP0323,Krisha Wagle,Female,Senior Loan Officer,Retail Banking,BR061,11,3.8,1161543,2014-08-28,On Leave
+EMP0324,Leena Narayanan,Female,Relationship Manager,Retail Banking,BR201,5,3.0,967990,2021-04-03,On Leave
+EMP0325,Onveer Mohanty,Male,Loan Officer,Retail Banking,BR066,21,4.0,1079740,2004-10-08,Active
+EMP0326,Chatresh Purohit,Male,Relationship Manager,Retail Banking,BR173,8,2.7,1056047,2018-04-13,Active
+EMP0327,Ojas Memon,Male,Senior Loan Officer,Retail Banking,BR056,3,4.2,981714,2022-12-11,Active
+EMP0328,Fariq Kulkarni,Male,Loan Officer,Retail Banking,BR035,12,2.7,808535,2014-01-10,Active
+EMP0329,Jackson Pandit,Male,Loan Officer,Retail Banking,BR242,7,3.4,753005,2018-09-26,Active
+EMP0330,Ira Varty,Female,Regional Manager,Management,BR109,1,2.6,2054311,2025-06-21,On Leave
+EMP0331,Agastya Hora,Male,Relationship Manager,Retail Banking,BR088,6,4.7,1095374,2020-02-13,Active
+EMP0332,Ekansh Konda,Male,Relationship Manager,Retail Banking,BR035,23,3.3,1305143,2003-03-31,Active
+EMP0333,Sathvik Nath,Male,Sales Executive,Sales,BR096,24,4.7,888947,2002-01-23,Active
+EMP0334,Chandani Patel,Female,Relationship Manager,Retail Banking,BR013,3,5.0,968276,2022-08-13,Active
+EMP0335,Vedika Dash,Female,Relationship Manager,Retail Banking,BR114,4,3.2,956183,2021-10-08,Active
+EMP0336,Ekanta Khare,Female,Sales Executive,Sales,BR250,3,4.1,492300,2023-02-17,Active
+EMP0337,Kevin Ganguly,Male,Relationship Manager,Retail Banking,BR203,11,4.1,1041152,2014-11-22,Active
+EMP0338,Eta Das,Female,Loan Officer,Retail Banking,BR174,16,3.7,902508,2009-11-30,Active
+EMP0339,Mitali Patla,Female,Senior Loan Officer,Retail Banking,BR247,10,2.9,1093489,2016-04-09,Active
+EMP0340,Pratyush Gandhi,Male,Loan Officer,Retail Banking,BR047,16,4.0,877948,2010-07-16,Active
+EMP0341,Balvan Sha,Male,Loan Officer,Retail Banking,BR095,2,3.3,736944,2023-10-11,Active
+EMP0342,Tamanna Gole,Female,Branch Manager,Management,BR149,11,2.9,1852823,2014-10-04,Active
+EMP0343,Nikita Raj,Female,Senior Loan Officer,Retail Banking,BR060,15,3.1,1422293,2010-11-19,Active
+EMP0344,Fariq Iyengar,Male,Loan Officer,Retail Banking,BR240,18,5.0,958688,2008-05-02,Active
+EMP0345,Vivaan Bali,Male,Senior Loan Officer,Retail Banking,BR164,13,2.9,1362957,2013-03-04,Active
+EMP0346,Reyansh Dani,Male,Loan Officer,Retail Banking,BR167,18,2.8,1050096,2007-11-08,Active
+EMP0347,Gabriel Nayar,Male,Credit Analyst,Risk,BR146,13,3.2,1340097,2012-09-07,Active
+EMP0348,Karan Kohli,Male,Loan Officer,Retail Banking,BR072,21,3.7,1089440,2005-07-16,Active
+EMP0349,Avi Barad,Male,Relationship Manager,Retail Banking,BR066,2,3.1,960297,2024-07-03,Active
+EMP0350,Saksham Tank,Male,Loan Officer,Retail Banking,BR039,18,2.6,915407,2007-11-25,Active
+EMP0351,Vrinda Pai,Female,Sales Executive,Sales,BR171,21,3.0,869466,2005-02-27,On Leave
+EMP0352,Samar Manda,Male,Operations Executive,Operations,BR031,23,3.2,891891,2003-05-01,Active
+EMP0353,Vedika Rege,Female,Credit Analyst,Risk,BR169,2,4.8,910904,2023-11-05,Active
+EMP0354,Dhriti Contractor,Female,Sales Executive,Sales,BR029,21,4.7,892642,2005-05-09,Active
+EMP0355,Zaitra Verma,Female,Sales Executive,Sales,BR182,10,3.1,664347,2016-03-15,Active
+EMP0356,Shivansh Bajwa,Male,Credit Analyst,Risk,BR202,22,2.6,1692981,2004-01-10,Active
+EMP0357,Avi Minhas,Male,Senior Loan Officer,Retail Banking,BR183,16,4.1,1329850,2010-01-13,Active
+EMP0358,Raghav Nagy,Male,Sales Executive,Sales,BR159,16,4.5,699849,2009-08-28,Active
+EMP0359,Bakhshi Konda,Male,Senior Loan Officer,Retail Banking,BR166,11,3.7,1242692,2015-07-14,Active
+EMP0360,Udant Kibe,Male,Loan Officer,Retail Banking,BR159,2,4.8,660136,2023-10-01,Active
+EMP0361,Ati Soni,Female,Operations Executive,Operations,BR017,11,2.8,690170,2014-11-20,Active
+EMP0362,Jagdish Mohan,Male,Loan Officer,Retail Banking,BR094,24,3.8,1070664,2001-10-06,Active
+EMP0363,Kamya Biswas,Female,Loan Officer,Retail Banking,BR221,11,2.6,839483,2014-10-31,On Leave
+EMP0364,Ucchal Gala,Female,Loan Officer,Retail Banking,BR032,8,4.5,873145,2018-06-16,Active
+EMP0365,Ucchal Das,Female,Credit Analyst,Risk,BR232,25,4.1,1765123,2000-11-16,On Leave
+EMP0366,Chavvi Venkatesh,Female,Regional Manager,Management,BR158,17,2.7,3110637,2009-06-29,Active
+EMP0367,Diya Yogi,Female,Operations Executive,Operations,BR011,19,4.3,832291,2006-09-01,Active
+EMP0368,Aachal Minhas,Female,Relationship Manager,Retail Banking,BR228,4,4.9,893708,2022-03-18,On Leave
+EMP0369,Mason Bajwa,Male,Relationship Manager,Retail Banking,BR109,15,4.2,1217119,2011-05-24,Active
+EMP0370,Gabriel Bhatnagar,Male,Loan Officer,Retail Banking,BR012,21,3.1,1136491,2005-01-01,Active
+EMP0371,Umang Wali,Male,Loan Officer,Retail Banking,BR191,19,3.7,921884,2007-06-22,Active
+EMP0372,Ekta Parikh,Female,Branch Manager,Management,BR151,7,4.9,1942812,2018-11-19,Active
+EMP0373,Arin Mohan,Male,Loan Officer,Retail Banking,BR148,1,3.1,718462,2024-11-06,Active
+EMP0374,Vasana Murthy,Female,Sales Executive,Sales,BR069,7,3.1,640246,2018-07-29,Active
+EMP0375,Omaja Tara,Female,Credit Analyst,Risk,BR006,7,3.6,1107093,2018-09-10,Active
+EMP0376,Vrishti Jhaveri,Female,Branch Manager,Management,BR117,3,3.6,1626351,2022-10-17,Active
+EMP0377,Neelima Bhargava,Female,Sales Executive,Sales,BR244,3,4.4,522792,2022-09-19,Active
+EMP0378,Nisha Pandya,Female,Loan Officer,Retail Banking,BR139,21,3.2,1080843,2005-06-16,Active
+EMP0379,Adweta Gera,Female,Senior Loan Officer,Retail Banking,BR067,13,2.5,1230016,2012-12-21,Active
+EMP0380,Zinal Keer,Female,Loan Officer,Retail Banking,BR016,13,3.2,985860,2012-12-17,Active
+EMP0381,Aryan Cherian,Male,Operations Executive,Operations,BR183,21,3.5,912699,2004-07-30,Active
+EMP0382,Nirja Mahal,Female,Senior Loan Officer,Retail Banking,BR140,9,3.1,1184399,2016-12-30,Active
+EMP0383,Ekansh Natt,Male,Relationship Manager,Retail Banking,BR244,25,4.0,1579649,2000-11-12,Active
+EMP0384,Triya Brar,Female,Senior Loan Officer,Retail Banking,BR170,16,3.3,1444542,2009-11-17,Active
+EMP0385,Jasmit Mohanty,Female,Credit Analyst,Risk,BR143,4,4.0,1055565,2021-10-27,Resigned
+EMP0386,Guneet Luthra,Male,Regional Manager,Management,BR077,12,3.6,2723811,2014-07-23,Active
+EMP0387,Jacob Thaker,Male,Credit Analyst,Risk,BR149,7,3.5,1097457,2019-01-24,Active
+EMP0388,Laban Pradhan,Male,Senior Loan Officer,Retail Banking,BR161,13,4.1,1163080,2013-02-18,Active
+EMP0389,Ishwar Mitra,Male,Loan Officer,Retail Banking,BR190,1,2.8,614026,2025-07-11,Active
+EMP0390,Isaiah Malhotra,Male,Loan Officer,Retail Banking,BR221,23,4.0,1134872,2003-03-03,Active
+EMP0391,Chandani Shere,Female,Credit Analyst,Risk,BR180,11,4.5,1365688,2014-11-27,Active
+EMP0392,Urvi Wable,Female,Sales Executive,Sales,BR058,19,3.2,785826,2007-01-27,Active
+EMP0393,Zilmil Bath,Female,Relationship Manager,Retail Banking,BR212,11,4.5,1217937,2015-04-29,Active
+EMP0394,Lucky Yogi,Male,Loan Officer,Retail Banking,BR224,20,4.3,980945,2006-02-16,Active
+EMP0395,Udyati Chahal,Female,Loan Officer,Retail Banking,BR191,8,3.7,833213,2017-08-04,Active
+EMP0396,Lucky Gupta,Male,Relationship Manager,Retail Banking,BR154,2,4.0,948156,2023-11-16,Active
+EMP0397,Hemal Mallick,Female,Relationship Manager,Retail Banking,BR046,4,3.5,1029856,2021-09-14,Active
+EMP0398,Girik Dora,Male,Credit Analyst,Risk,BR057,23,4.2,1462197,2003-03-05,Active
+EMP0399,Vedhika Rajagopalan,Female,Loan Officer,Retail Banking,BR004,1,3.1,641670,2025-03-13,Active
+EMP0400,Yahvi Bhasin,Female,Loan Officer,Retail Banking,BR121,6,3.2,707629,2020-06-06,Active
+EMP0401,Azad Parsa,Male,Loan Officer,Retail Banking,BR178,25,4.7,1205663,2000-12-15,Active
+EMP0402,Wyatt Balay,Male,Loan Officer,Retail Banking,BR136,13,3.4,861143,2012-12-12,Active
+EMP0403,Zayyan Verma,Male,Loan Officer,Retail Banking,BR159,10,3.3,765883,2016-07-06,Active
+EMP0404,Fitan Choudhury,Male,Loan Officer,Retail Banking,BR024,18,4.2,1039380,2007-12-09,Active
+EMP0405,Jacob Sastry,Male,Sales Executive,Sales,BR029,21,4.8,869676,2005-06-21,Active
+EMP0406,Kamya Lad,Female,Senior Loan Officer,Retail Banking,BR133,17,3.9,1233673,2009-03-02,Active
+EMP0407,Indrajit Tara,Male,Senior Loan Officer,Retail Banking,BR184,4,2.5,937089,2022-01-07,Active
+EMP0408,Andrew Jain,Male,Loan Officer,Retail Banking,BR150,14,4.0,931608,2012-06-29,Active
+EMP0409,Udarsh Gole,Male,Loan Officer,Retail Banking,BR167,8,4.2,760346,2017-12-10,Active
+EMP0410,Forum Badami,Female,Regional Manager,Management,BR237,21,4.0,3236208,2004-08-27,Active
+EMP0411,Teerth Thakur,Male,Loan Officer,Retail Banking,BR134,10,3.3,922369,2015-10-14,Active
+EMP0412,Karan Balasubramanian,Male,Loan Officer,Retail Banking,BR009,24,3.1,1043211,2002-02-04,Active
+EMP0413,Dakshesh Gokhale,Male,Operations Executive,Operations,BR166,21,2.6,836167,2004-11-29,Resigned
+EMP0414,Eta Bhagat,Female,Operations Executive,Operations,BR002,24,3.0,971565,2001-09-19,On Leave
+EMP0415,Simon Basak,Male,Sales Executive,Sales,BR100,10,3.5,692074,2016-03-19,Active
+EMP0416,Kevin Tara,Male,Loan Officer,Retail Banking,BR070,21,4.9,1004391,2005-03-09,On Leave
+EMP0417,Frederick Radhakrishnan,Male,Relationship Manager,Retail Banking,BR180,6,4.2,979121,2019-08-20,Active
+EMP0418,Kritika Dutta,Female,Sales Executive,Sales,BR151,11,3.7,606331,2014-11-18,Active
+EMP0419,Vasana Bhat,Female,Relationship Manager,Retail Banking,BR085,1,3.4,894601,2024-10-12,Active
+EMP0420,Samesh Sibal,Male,Loan Officer,Retail Banking,BR161,1,3.7,705093,2024-10-08,Active
+EMP0421,Hritik Basak,Male,Loan Officer,Retail Banking,BR034,2,2.7,739256,2024-07-07,Active
+EMP0422,Wishi Desai,Female,Loan Officer,Retail Banking,BR185,14,4.0,968375,2012-01-23,Active
+EMP0423,Vasatika Vig,Female,Operations Executive,Operations,BR062,5,3.2,647066,2021-07-11,Active
+EMP0424,Aadhya Khosla,Female,Relationship Manager,Retail Banking,BR235,23,2.6,1536014,2002-09-25,Active
+EMP0425,Ekavir Chand,Male,Loan Officer,Retail Banking,BR019,6,3.0,707504,2020-04-14,Active
+EMP0426,Manthan Sodhi,Male,Relationship Manager,Retail Banking,BR146,18,4.5,1285377,2008-01-17,Active
+EMP0427,Balvan Banerjee,Male,Loan Officer,Retail Banking,BR050,16,3.3,1055824,2010-07-14,Active
+EMP0428,Manbir Kulkarni,Male,Loan Officer,Retail Banking,BR241,19,4.6,977577,2007-03-05,Active
+EMP0429,Jai Sahota,Male,Loan Officer,Retail Banking,BR233,23,4.7,1191777,2003-06-05,Active
+EMP0430,Chameli Karan,Female,Loan Officer,Retail Banking,BR180,10,3.1,928974,2016-06-06,Active
+EMP0431,Mohammed Nazareth,Male,Branch Manager,Management,BR190,11,4.4,1840460,2015-05-27,Active
+EMP0432,Anusha Dyal,Female,Senior Loan Officer,Retail Banking,BR228,22,4.9,1612902,2003-10-08,Active
+EMP0433,Ayush Oza,Male,Operations Executive,Operations,BR104,21,3.2,909393,2005-03-19,Active
+EMP0434,Vihaan Ramaswamy,Male,Relationship Manager,Retail Banking,BR072,25,4.1,1467961,2000-10-07,Active
+EMP0435,Sai Radhakrishnan,Female,Relationship Manager,Retail Banking,BR068,15,4.2,1321847,2011-07-13,Active
+EMP0436,Hritik Sahota,Male,Senior Loan Officer,Retail Banking,BR188,9,3.0,1155965,2017-02-03,Active
+EMP0437,Jatin Gour,Male,Credit Analyst,Risk,BR164,21,3.3,1478882,2004-11-12,Active
+EMP0438,Wakeeta Jani,Female,Credit Analyst,Risk,BR220,8,4.5,1102116,2017-12-01,Active
+EMP0439,Jalsa Sibal,Female,Loan Officer,Retail Banking,BR138,18,3.5,963510,2007-12-04,Active
+EMP0440,Warinder Sekhon,Male,Sales Executive,Sales,BR154,21,4.9,766589,2004-09-17,Active
+EMP0441,Gautam Sur,Male,Loan Officer,Retail Banking,BR173,6,3.9,720180,2019-08-16,Active
+EMP0442,Rehaan Saini,Male,Loan Officer,Retail Banking,BR176,2,2.8,713309,2024-03-15,Active
+EMP0443,Arunima Malhotra,Female,Sales Executive,Sales,BR007,12,4.9,619802,2013-08-30,Active
+EMP0444,Laksh Bahl,Male,Relationship Manager,Retail Banking,BR033,6,4.6,934847,2020-01-29,Active
+EMP0445,Lekha Vala,Female,Sales Executive,Sales,BR142,12,4.2,711078,2013-12-21,Active
+EMP0446,Ikbal Luthra,Male,Sales Executive,Sales,BR199,22,3.8,801231,2003-12-15,Active
+EMP0447,Radha Bhandari,Female,Loan Officer,Retail Banking,BR154,1,3.6,716651,2024-11-20,On Leave
+EMP0448,Pranit Devan,Male,Senior Loan Officer,Retail Banking,BR175,2,3.8,927180,2024-01-19,Active
+EMP0449,Dipta Bahri,Female,Relationship Manager,Retail Banking,BR246,20,3.8,1442685,2006-01-09,On Leave
+EMP0450,Sanaya Sengupta,Female,Sales Executive,Sales,BR012,22,3.7,806320,2004-05-30,Active
+EMP0451,Rayaan Nanda,Male,Regional Manager,Management,BR155,5,3.6,2564838,2021-06-05,Active
+EMP0452,Ayaan Mittal,Male,Loan Officer,Retail Banking,BR187,10,3.3,825365,2016-04-08,Active
+EMP0453,Jagdish Suresh,Male,Loan Officer,Retail Banking,BR146,5,2.9,689700,2021-06-23,Active
+EMP0454,Girindra Dora,Male,Loan Officer,Retail Banking,BR086,6,4.0,698109,2020-07-01,Active
+EMP0455,Anamika Joshi,Female,Operations Executive,Operations,BR121,4,3.9,674618,2022-02-05,Active
+EMP0456,Samesh Samra,Male,Operations Executive,Operations,BR235,20,2.9,879077,2006-02-22,Active
+EMP0457,Ekansh Varughese,Male,Loan Officer,Retail Banking,BR016,6,4.9,785108,2020-02-12,Active
+EMP0458,Naksh Seth,Male,Operations Executive,Operations,BR222,8,2.8,688322,2017-10-20,Active
+EMP0459,Ethan Jayaraman,Male,Senior Loan Officer,Retail Banking,BR195,11,4.7,1219737,2015-03-15,Active
+EMP0460,Varenya Ravi,Female,Sales Executive,Sales,BR025,24,3.1,784770,2001-11-12,Active
+EMP0461,Reyansh Varughese,Male,Operations Executive,Operations,BR095,16,4.6,811695,2010-04-18,Active
+EMP0462,Isaiah Chauhan,Male,Regional Manager,Management,BR154,20,3.1,3231261,2005-11-13,Active
+EMP0463,Reva Pai,Female,Loan Officer,Retail Banking,BR032,21,4.9,1146619,2005-01-23,Active
+EMP0464,Ekiya Baria,Female,Loan Officer,Retail Banking,BR040,18,4.6,1061007,2007-08-17,Active
+EMP0465,Warhi Apte,Female,Credit Analyst,Risk,BR249,2,3.1,969815,2024-06-03,Active
+EMP0466,Bhavna Kalita,Female,Senior Loan Officer,Retail Banking,BR136,21,2.8,1362022,2004-09-06,Active
+EMP0467,Darsh Prasad,Male,Senior Loan Officer,Retail Banking,BR091,25,4.4,1488653,2001-06-26,Active
+EMP0468,Kai Chana,Male,Operations Executive,Operations,BR008,14,4.5,750616,2011-11-25,Active
+EMP0469,Dipta Ramanathan,Female,Loan Officer,Retail Banking,BR142,1,2.8,612916,2024-09-19,Active
+EMP0470,Bhanumati Suri,Female,Loan Officer,Retail Banking,BR113,16,3.3,872502,2009-12-25,Active
+EMP0471,Nitesh Mane,Male,Loan Officer,Retail Banking,BR088,25,4.7,1154414,2001-05-27,Active
+EMP0472,Logan Kant,Male,Relationship Manager,Retail Banking,BR158,21,2.7,1272606,2004-12-31,Active
+EMP0473,Tamanna Jaggi,Female,Senior Loan Officer,Retail Banking,BR010,10,4.9,1230354,2015-08-31,Active
+EMP0474,Geetika Panchal,Female,Credit Analyst,Risk,BR191,6,3.8,1204249,2019-11-05,Active
+EMP0475,Yoshita Chander,Female,Relationship Manager,Retail Banking,BR030,5,4.4,1048189,2021-02-17,Active
+EMP0476,Udyati Dora,Female,Relationship Manager,Retail Banking,BR027,19,3.2,1408880,2007-02-10,Active
+EMP0477,Lavanya Morar,Female,Relationship Manager,Retail Banking,BR018,18,3.4,1414987,2008-04-11,Active
+EMP0478,Rohan Dara,Male,Loan Officer,Retail Banking,BR066,17,4.1,967366,2009-07-07,Active
+EMP0479,Bhavika Ravel,Female,Relationship Manager,Retail Banking,BR149,5,4.0,990599,2020-10-22,Active
+EMP0480,Avi Purohit,Male,Operations Executive,Operations,BR113,13,4.1,760842,2012-08-23,Active
+EMP0481,Netra Singh,Female,Sales Executive,Sales,BR060,7,4.1,588728,2018-12-20,On Leave
+EMP0482,Jonathan Bora,Male,Sales Executive,Sales,BR062,16,4.6,800397,2010-06-12,Active
+EMP0483,Anita Palan,Female,Loan Officer,Retail Banking,BR130,15,2.6,994738,2010-12-07,Active
+EMP0484,Ridhi Mishra,Female,Regional Manager,Management,BR145,23,2.9,3379821,2003-01-13,Active
+EMP0485,Girik Singh,Male,Senior Loan Officer,Retail Banking,BR008,14,4.2,1207572,2012-01-30,Active
+EMP0486,Onkar Patil,Male,Loan Officer,Retail Banking,BR215,10,4.5,770451,2015-08-10,Active
+EMP0487,Janaki Borra,Female,Relationship Manager,Retail Banking,BR048,4,3.4,941351,2022-03-29,Active
+EMP0488,Samesh Sagar,Male,Relationship Manager,Retail Banking,BR012,13,3.3,1245039,2013-02-22,Active
+EMP0489,Manya Bir,Female,Relationship Manager,Retail Banking,BR236,4,4.5,906631,2022-06-23,Active
+EMP0490,Varenya Raja,Female,Regional Manager,Management,BR239,4,2.9,2706192,2022-04-14,Active
+EMP0491,Anirudh Deshpande,Male,Loan Officer,Retail Banking,BR053,15,2.7,958943,2011-02-15,Active
+EMP0492,Nilima Talwar,Female,Sales Executive,Sales,BR207,17,2.6,724157,2009-03-01,Active
+EMP0493,Warjas Bail,Male,Senior Loan Officer,Retail Banking,BR088,14,2.7,1212948,2011-09-25,Active
+EMP0494,Inaya Madan,Female,Relationship Manager,Retail Banking,BR103,2,3.3,859631,2024-02-26,On Leave
+EMP0495,Leela Kannan,Female,Loan Officer,Retail Banking,BR204,15,4.2,911531,2010-11-19,Active
+EMP0496,Yoshita Acharya,Female,Branch Manager,Management,BR061,1,3.2,1482583,2025-05-27,Active
+EMP0497,Aadhya Khatri,Female,Senior Loan Officer,Retail Banking,BR138,24,4.7,1504741,2001-12-15,Active
+EMP0498,Balveer Nath,Male,Loan Officer,Retail Banking,BR025,13,4.5,913704,2012-11-17,Active
+EMP0499,Prisha Chawla,Female,Senior Loan Officer,Retail Banking,BR077,23,4.7,1589712,2002-08-19,Active
+EMP0500,Naksh Johal,Male,Operations Executive,Operations,BR154,20,3.8,890330,2006-07-04,Active
+EMP0501,Gaurangi Handa,Female,Relationship Manager,Retail Banking,BR230,19,2.9,1351322,2007-05-17,Active
+EMP0502,Gauri Nath,Female,Relationship Manager,Retail Banking,BR085,21,3.3,1491728,2005-07-26,Active
+EMP0503,Nandini Pingle,Female,Sales Executive,Sales,BR182,25,4.4,955601,2001-01-02,Active
+EMP0504,Luke Peri,Male,Senior Loan Officer,Retail Banking,BR064,23,3.8,1379093,2002-11-27,Active
+EMP0505,Jagat Krish,Male,Senior Loan Officer,Retail Banking,BR033,13,4.8,1156947,2012-12-11,Active
+EMP0506,Nicholas Gokhale,Male,Relationship Manager,Retail Banking,BR035,13,3.5,1175069,2012-12-17,Active
+EMP0507,Azad Biswas,Male,Sales Executive,Sales,BR234,17,3.1,716410,2008-12-05,Active
+EMP0508,Nilima Chowdhury,Female,Credit Analyst,Risk,BR239,10,3.3,1116289,2016-06-10,Active
+EMP0509,Wridesh Baria,Male,Credit Analyst,Risk,BR141,4,3.1,1124975,2022-03-13,Active
+EMP0510,Triveni Subramaniam,Female,Regional Manager,Management,BR197,23,4.0,3441376,2003-02-01,On Leave
+EMP0511,Pooja Kulkarni,Female,Regional Manager,Management,BR035,20,4.2,3396308,2005-09-05,Active
+EMP0512,Zehaan Ramanathan,Male,Relationship Manager,Retail Banking,BR216,24,4.9,1593590,2001-08-05,Active
+EMP0513,Ladli Pillai,Female,Senior Loan Officer,Retail Banking,BR012,3,4.7,1066304,2023-06-25,Active
+EMP0514,Hemani Nath,Female,Relationship Manager,Retail Banking,BR052,19,5.0,1320339,2006-08-18,Active
+EMP0515,Eiravati Salvi,Female,Loan Officer,Retail Banking,BR186,21,5.0,1114858,2005-01-17,Active
+EMP0516,Lipika Dyal,Female,Loan Officer,Retail Banking,BR184,7,2.9,777415,2018-10-19,Active
+EMP0517,Harish Puri,Male,Regional Manager,Management,BR210,8,4.6,2530049,2017-12-26,Active
+EMP0518,Jack Goyal,Male,Credit Analyst,Risk,BR188,1,4.2,1018854,2025-04-27,Active
+EMP0519,Warinder Deol,Male,Loan Officer,Retail Banking,BR218,11,4.1,838362,2015-06-30,Active
+EMP0520,Krishna Saini,Male,Credit Analyst,Risk,BR118,20,3.7,1390392,2005-12-05,Active
+EMP0521,Rushil Raju,Male,Sales Executive,Sales,BR213,20,3.4,729976,2005-09-02,Active
+EMP0522,Arunima Dugar,Female,Regional Manager,Management,BR054,19,3.0,3132408,2006-09-25,Active
+EMP0523,Anvi Hari,Female,Credit Analyst,Risk,BR102,18,3.3,1419487,2007-10-11,Active
+EMP0524,Pranav Yohannan,Male,Credit Analyst,Risk,BR024,4,3.9,1115968,2022-05-23,Active
+EMP0525,Tanmayi Narayan,Female,Loan Officer,Retail Banking,BR148,2,3.3,754773,2024-04-15,Active
+EMP0526,Wyatt Garg,Male,Loan Officer,Retail Banking,BR087,17,3.3,1059139,2009-03-01,Active
+EMP0527,Bhavna More,Female,Credit Analyst,Risk,BR244,12,2.7,1253079,2014-03-04,Active
+EMP0528,Lucky Kapur,Male,Sales Executive,Sales,BR192,24,3.4,833623,2002-03-26,Active
+EMP0529,Samar Dhar,Male,Operations Executive,Operations,BR099,4,4.1,628896,2022-05-18,Resigned
+EMP0530,Janaki Mandal,Female,Relationship Manager,Retail Banking,BR006,15,3.5,1126499,2010-08-20,Active
+EMP0531,Timothy Gill,Male,Relationship Manager,Retail Banking,BR250,15,4.0,1188084,2010-08-22,On Leave
+EMP0532,Jeremiah Sura,Male,Sales Executive,Sales,BR154,23,3.1,899758,2003-06-15,Active
+EMP0533,Darpan Doshi,Male,Loan Officer,Retail Banking,BR150,17,4.9,908248,2008-11-01,Active
+EMP0534,Aditya Madan,Male,Relationship Manager,Retail Banking,BR127,25,4.5,1486390,2000-12-14,Active
+EMP0535,Mahika Ratta,Female,Relationship Manager,Retail Banking,BR085,17,2.5,1275135,2009-05-30,Active
+EMP0536,Oeshi Kari,Female,Loan Officer,Retail Banking,BR135,25,4.6,1052409,2000-11-09,Active
+EMP0537,Warda Iyer,Female,Credit Analyst,Risk,BR053,10,3.4,1301989,2016-01-21,Active
+EMP0538,Kai Behl,Male,Relationship Manager,Retail Banking,BR125,3,4.4,1015790,2022-09-27,Active
+EMP0539,Azad Amble,Male,Sales Executive,Sales,BR070,23,4.0,865618,2003-03-01,Active
+EMP0540,Balveer Agrawal,Male,Relationship Manager,Retail Banking,BR095,1,2.9,889659,2024-12-25,Active
+EMP0541,Pahal Sule,Female,Loan Officer,Retail Banking,BR092,7,3.8,724024,2019-07-11,Active
+EMP0542,Harrison Rege,Male,Loan Officer,Retail Banking,BR063,5,3.1,775477,2021-04-13,Active
+EMP0543,Anamika Sachdeva,Female,Sales Executive,Sales,BR218,7,3.9,550711,2019-01-19,On Leave
+EMP0544,Rudra Bhardwaj,Male,Relationship Manager,Retail Banking,BR223,22,2.6,1518347,2004-01-30,Active
+EMP0545,Lajita Malhotra,Female,Relationship Manager,Retail Banking,BR025,14,3.1,1292243,2012-04-03,Active
+EMP0546,Mohini Krish,Female,Relationship Manager,Retail Banking,BR211,15,2.7,1291521,2010-12-15,Active
+EMP0547,Arunima Goda,Female,Operations Executive,Operations,BR062,9,2.5,706051,2016-10-25,Active
+EMP0548,Frado Yohannan,Male,Credit Analyst,Risk,BR058,8,4.9,1089620,2018-03-04,Active
+EMP0549,Baljiwan Madan,Male,Senior Loan Officer,Retail Banking,BR014,12,3.5,1113834,2014-05-27,On Leave
+EMP0550,Amaira Mukherjee,Female,Sales Executive,Sales,BR186,13,5.0,658336,2013-06-25,Active
+EMP0551,Viraj Anne,Male,Regional Manager,Management,BR213,8,2.8,2500789,2017-09-19,Active
+EMP0552,Azad Patla,Male,Regional Manager,Management,BR066,1,2.8,2099972,2024-09-23,Active
+EMP0553,Kevin Konda,Male,Senior Loan Officer,Retail Banking,BR162,15,2.9,1302700,2011-07-14,Active
+EMP0554,Sudiksha Morar,Female,Sales Executive,Sales,BR082,6,4.6,628831,2020-04-06,Active
+EMP0555,Wridesh Ratti,Male,Loan Officer,Retail Banking,BR071,15,3.7,1034185,2011-03-02,Active
+EMP0556,Ladli Bajwa,Female,Operations Executive,Operations,BR142,25,4.8,918541,2000-09-18,Active
+EMP0557,Ekavir Karan,Male,Senior Loan Officer,Retail Banking,BR194,18,2.7,1375343,2008-06-17,Active
+EMP0558,Rishi Pingle,Male,Credit Analyst,Risk,BR243,13,3.6,1304940,2013-06-29,Active
+EMP0559,Rajata Sengupta,Female,Operations Executive,Operations,BR131,22,3.6,833184,2004-05-29,Active
+EMP0560,Nimrat Mallick,Female,Relationship Manager,Retail Banking,BR142,4,4.6,972940,2021-12-10,Active
+EMP0561,Oeshi Chandra,Female,Sales Executive,Sales,BR140,20,4.0,823398,2005-09-09,Active
+EMP0562,Oliver Kala,Male,Loan Officer,Retail Banking,BR018,4,4.6,792569,2021-09-26,Active
+EMP0563,Hitesh Batta,Male,Loan Officer,Retail Banking,BR121,12,3.5,960157,2014-04-13,Active
+EMP0564,Max Jha,Male,Loan Officer,Retail Banking,BR166,3,4.5,761099,2023-05-08,Active
+EMP0565,Prisha Cherian,Female,Loan Officer,Retail Banking,BR072,20,3.0,1139389,2005-11-01,Active
+EMP0566,Eshana Pradhan,Female,Loan Officer,Retail Banking,BR055,7,3.1,844608,2018-08-13,Active
+EMP0567,Hemani Sankar,Female,Relationship Manager,Retail Banking,BR010,18,4.0,1245451,2007-09-01,Active
+EMP0568,Aayush Ratta,Male,Operations Executive,Operations,BR049,19,4.0,818925,2007-06-08,Active
+EMP0569,Saksham Chandran,Male,Sales Executive,Sales,BR213,15,3.2,705191,2011-07-28,Active
+EMP0570,Harsh Bail,Male,Branch Manager,Management,BR026,8,4.1,1890562,2018-02-11,Active
+EMP0571,Oeshi Bhavsar,Female,Loan Officer,Retail Banking,BR171,21,3.5,988764,2005-04-05,Active
+EMP0572,Oeshi Sani,Female,Relationship Manager,Retail Banking,BR228,5,4.6,986694,2020-11-02,Active
+EMP0573,Imaran Tata,Male,Credit Analyst,Risk,BR032,18,4.5,1491144,2008-03-01,Active
+EMP0574,Hemal Mahajan,Female,Sales Executive,Sales,BR121,10,2.6,636540,2015-12-07,Active
+EMP0575,Robert Nagy,Male,Credit Analyst,Risk,BR170,22,3.2,1483356,2004-04-21,Active
+EMP0576,Pranav Vohra,Male,Senior Loan Officer,Retail Banking,BR121,22,4.0,1531244,2003-11-27,Active
+EMP0577,Falak Radhakrishnan,Female,Senior Loan Officer,Retail Banking,BR150,17,4.2,1281629,2009-06-07,On Leave
+EMP0578,Jagvi Padmanabhan,Female,Branch Manager,Management,BR096,18,4.4,2175345,2008-02-22,Active
+EMP0579,Unnati Thaman,Female,Credit Analyst,Risk,BR130,24,3.9,1586964,2002-05-17,Active
+EMP0580,Divya Setty,Female,Branch Manager,Management,BR152,13,3.6,1926317,2013-02-15,Active
+EMP0581,Vivaan Saini,Male,Operations Executive,Operations,BR173,14,5.0,778861,2011-09-07,Active
+EMP0582,Yamini Karpe,Female,Relationship Manager,Retail Banking,BR249,22,3.9,1283993,2003-11-27,Active
+EMP0583,Ansh Varma,Male,Loan Officer,Retail Banking,BR046,20,3.4,970415,2006-05-12,Active
+EMP0584,Upkaar Sekhon,Male,Relationship Manager,Retail Banking,BR220,17,3.1,1230143,2008-08-29,Active
+EMP0585,Arin Bhagat,Male,Sales Executive,Sales,BR219,15,2.7,766368,2011-05-06,Active
+EMP0586,Forum Yadav,Female,Loan Officer,Retail Banking,BR001,4,4.0,798317,2021-10-15,Active
+EMP0587,Omya Kunda,Female,Loan Officer,Retail Banking,BR223,20,4.2,1006967,2005-11-08,Active
+EMP0588,Girindra Singh,Male,Loan Officer,Retail Banking,BR113,10,3.7,835385,2016-04-11,Active
+EMP0589,Ati Date,Female,Branch Manager,Management,BR204,9,3.7,1957599,2016-09-04,On Leave
+EMP0590,Christopher Kaur,Male,Loan Officer,Retail Banking,BR112,22,3.9,1043392,2004-03-21,Active
+EMP0591,Ekta Contractor,Female,Loan Officer,Retail Banking,BR223,9,4.0,845737,2017-01-12,Resigned
+EMP0592,Yashodhara Krishnamurthy,Female,Loan Officer,Retail Banking,BR144,19,2.9,1105074,2006-12-19,Active
+EMP0593,Bachittar Goyal,Male,Credit Analyst,Risk,BR014,3,3.4,957486,2022-10-29,Active
+EMP0594,Pavani Krishna,Female,Regional Manager,Management,BR006,6,4.8,2391075,2019-12-02,Resigned
+EMP0595,Vasana Johal,Female,Relationship Manager,Retail Banking,BR166,2,3.5,896287,2023-09-13,Active
+EMP0596,Tanay Hayre,Male,Senior Loan Officer,Retail Banking,BR093,2,4.2,904385,2024-01-16,Active
+EMP0597,Logan Khare,Male,Loan Officer,Retail Banking,BR193,14,3.7,867663,2011-11-19,Active
+EMP0598,Damyanti Sastry,Female,Loan Officer,Retail Banking,BR085,2,2.7,653361,2024-04-20,Active
+EMP0599,Jai Bora,Male,Loan Officer,Retail Banking,BR086,23,4.8,1046450,2003-07-14,Active
+EMP0600,Baghyawati Bhatti,Female,Loan Officer,Retail Banking,BR027,17,4.1,932668,2008-09-01,Active
+EMP0601,Qadim Gokhale,Male,Relationship Manager,Retail Banking,BR115,18,2.6,1411862,2007-10-01,Active
+EMP0602,Osha Bansal,Female,Credit Analyst,Risk,BR051,18,4.1,1446920,2007-10-27,Active
+EMP0603,Januja Mani,Female,Operations Executive,Operations,BR022,8,2.5,724689,2018-05-22,Active
+EMP0604,Sathvik Gopal,Male,Branch Manager,Management,BR236,9,3.2,2073941,2016-12-17,Active
+EMP0605,Amruta Shroff,Female,Loan Officer,Retail Banking,BR104,1,3.7,656024,2025-05-22,Active
+EMP0606,Bimala Chakrabarti,Female,Credit Analyst,Risk,BR057,11,2.7,1348751,2015-01-08,Active
+EMP0607,Nakul Hegde,Male,Operations Executive,Operations,BR065,10,3.8,664531,2015-10-02,Active
+EMP0608,Ranbir Aurora,Male,Loan Officer,Retail Banking,BR109,20,3.8,1084629,2005-10-25,Active
+EMP0609,Nisha Mallick,Female,Senior Loan Officer,Retail Banking,BR110,4,3.7,1029100,2022-02-23,On Leave
+EMP0610,Jagrati Golla,Female,Relationship Manager,Retail Banking,BR102,12,2.9,1185959,2014-05-28,Active
+EMP0611,Frederick Shukla,Male,Credit Analyst,Risk,BR187,5,4.8,1194001,2021-01-18,Active
+EMP0612,Eiravati Mall,Female,Credit Analyst,Risk,BR060,2,3.9,1000648,2023-12-07,Active
+EMP0613,Kai Padmanabhan,Male,Loan Officer,Retail Banking,BR134,1,4.5,683375,2024-10-29,Active
+EMP0614,Mitesh Hayre,Male,Operations Executive,Operations,BR107,10,3.8,728728,2015-12-04,Active
+EMP0615,Bhavya Jha,Female,Loan Officer,Retail Banking,BR212,18,3.4,940918,2008-06-16,Active
+EMP0616,Mohammed Rege,Male,Senior Loan Officer,Retail Banking,BR039,3,4.2,931593,2022-09-15,Active
+EMP0617,Eta Bora,Female,Loan Officer,Retail Banking,BR227,8,2.9,870818,2018-07-23,Active
+EMP0618,Unnati Prasad,Female,Loan Officer,Retail Banking,BR197,15,2.7,956569,2011-07-18,Active
+EMP0619,Maya Shan,Female,Loan Officer,Retail Banking,BR213,15,3.8,901658,2011-04-13,Active
+EMP0620,Zehaan Dasgupta,Male,Senior Loan Officer,Retail Banking,BR168,17,3.6,1299508,2009-03-08,Active
+EMP0621,Oscar Varkey,Male,Relationship Manager,Retail Banking,BR168,3,4.5,885639,2023-07-16,Active
+EMP0622,Jacob Tailor,Male,Sales Executive,Sales,BR214,12,4.8,703617,2013-09-13,Resigned
+EMP0623,Lucky Dasgupta,Male,Operations Executive,Operations,BR170,8,3.7,725264,2018-02-28,Active
+EMP0624,Balveer Sha,Male,Loan Officer,Retail Banking,BR169,25,2.6,1155890,2000-10-03,Active
+EMP0625,Waida Ram,Female,Loan Officer,Retail Banking,BR134,13,4.3,915853,2013-04-26,Active
+EMP0626,Samuel Kannan,Male,Senior Loan Officer,Retail Banking,BR120,12,4.2,1112994,2014-02-02,Active
+EMP0627,Azad Peri,Male,Sales Executive,Sales,BR120,18,3.2,782533,2008-03-27,Active
+EMP0628,Osha Manda,Female,Relationship Manager,Retail Banking,BR135,9,3.0,1055526,2016-09-02,Active
+EMP0629,Lipika Master,Female,Operations Executive,Operations,BR175,5,4.0,652542,2021-03-01,Active
+EMP0630,Krisha Aurora,Female,Credit Analyst,Risk,BR103,23,3.1,1750625,2002-08-15,Active
+EMP0631,Rachit Deo,Male,Relationship Manager,Retail Banking,BR093,13,3.4,1121501,2013-02-22,Active
+EMP0632,Rishi Salvi,Male,Loan Officer,Retail Banking,BR183,3,3.2,748911,2023-03-12,Active
+EMP0633,Onkar Chaudry,Male,Sales Executive,Sales,BR239,23,3.7,806124,2003-01-15,Active
+EMP0634,Chandran Setty,Male,Senior Loan Officer,Retail Banking,BR160,3,2.6,994070,2023-01-02,Active
+EMP0635,Chanchal Patla,Female,Relationship Manager,Retail Banking,BR162,14,2.5,1261269,2012-07-01,Active
+EMP0636,Ridhi Balan,Female,Loan Officer,Retail Banking,BR063,20,2.9,1055987,2005-12-12,Active
+EMP0637,Alka Dugal,Female,Sales Executive,Sales,BR190,11,3.4,630794,2014-10-27,Active
+EMP0638,Balhaar Pathak,Male,Operations Executive,Operations,BR183,21,4.3,895659,2004-08-10,Active
+EMP0639,Vincent Tiwari,Male,Branch Manager,Management,BR108,21,2.9,2349154,2005-04-27,Active
+EMP0640,Wriddhish Bhat,Male,Loan Officer,Retail Banking,BR173,22,3.8,1134648,2004-05-09,Active
+EMP0641,Aishani Rana,Female,Relationship Manager,Retail Banking,BR201,5,4.2,910959,2020-12-14,Active
+EMP0642,Jyoti Choudhary,Female,Loan Officer,Retail Banking,BR212,1,4.2,607252,2025-04-17,Resigned
+EMP0643,Bhavna Shere,Female,Senior Loan Officer,Retail Banking,BR112,5,4.3,1025794,2021-03-13,Active
+EMP0644,Janani Vasa,Female,Branch Manager,Management,BR114,16,2.8,2414689,2009-12-07,Resigned
+EMP0645,Yuvraj Pingle,Male,Relationship Manager,Retail Banking,BR083,19,2.8,1404684,2006-11-26,Active
+EMP0646,Yasti Rana,Female,Senior Loan Officer,Retail Banking,BR016,10,3.3,1162382,2016-01-21,Active
+EMP0647,Chakrika Aggarwal,Female,Regional Manager,Management,BR206,10,3.9,3112244,2015-10-24,Active
+EMP0648,Jonathan Som,Male,Senior Loan Officer,Retail Banking,BR116,20,4.1,1324009,2006-02-04,Active
+EMP0649,Tarak Sidhu,Male,Operations Executive,Operations,BR181,16,3.6,818251,2010-06-30,Active
+EMP0650,Abhiram Prabhakar,Male,Regional Manager,Management,BR248,25,4.0,4030169,2000-11-11,Active
+EMP0651,Amaira Chopra,Female,Loan Officer,Retail Banking,BR070,25,3.6,1180638,2001-05-05,Active
+EMP0652,Samuel Wason,Male,Sales Executive,Sales,BR012,17,4.0,748358,2008-08-25,On Leave
+EMP0653,Charvi Mitra,Female,Loan Officer,Retail Banking,BR234,2,3.5,644768,2024-04-14,Active
+EMP0654,Bahadurjit Khanna,Male,Operations Executive,Operations,BR122,23,4.6,957595,2003-04-29,Resigned
+EMP0655,Chaitanya Upadhyay,Male,Sales Executive,Sales,BR127,6,3.6,550566,2020-03-11,Active
+EMP0656,Manan Pandit,Male,Loan Officer,Retail Banking,BR109,21,2.6,998379,2004-08-22,On Leave
+EMP0657,Jatin Sachdev,Male,Sales Executive,Sales,BR190,21,3.9,890591,2004-08-05,Active
+EMP0658,Avi Kalla,Male,Loan Officer,Retail Banking,BR047,3,4.4,722728,2023-05-27,Active
+EMP0659,Frederick Cheema,Male,Relationship Manager,Retail Banking,BR094,22,4.1,1449556,2004-06-21,Active
+EMP0660,Ekapad Chawla,Male,Branch Manager,Management,BR180,13,3.5,2232053,2012-09-08,Active
+EMP0661,Ekbal Vohra,Male,Operations Executive,Operations,BR003,13,4.3,719680,2012-11-23,Active
+EMP0662,Tanvi Dani,Female,Regional Manager,Management,BR196,2,4.3,2273831,2024-04-01,Active
+EMP0663,Abdul Karnik,Male,Relationship Manager,Retail Banking,BR209,3,4.9,1002218,2022-10-09,Active
+EMP0664,Dayamai Puri,Female,Senior Loan Officer,Retail Banking,BR202,1,3.7,916998,2024-09-01,Active
+EMP0665,Nandini Wali,Female,Sales Executive,Sales,BR198,9,3.6,634399,2017-01-30,Active
+EMP0666,Tanmayi Choudhary,Female,Branch Manager,Management,BR044,22,3.9,2601599,2004-04-08,Resigned
+EMP0667,Netra Batra,Female,Regional Manager,Management,BR142,9,4.9,3026139,2017-03-01,Active
+EMP0668,Sathvik Mistry,Male,Sales Executive,Sales,BR166,22,4.4,885828,2004-06-27,Active
+EMP0669,Jalsa Lal,Female,Relationship Manager,Retail Banking,BR092,16,4.6,1183668,2010-07-21,Active
+EMP0670,Shaurya Narasimhan,Male,Loan Officer,Retail Banking,BR019,21,4.0,1081622,2004-10-25,Active
+EMP0671,Ishani Devi,Female,Senior Loan Officer,Retail Banking,BR124,10,2.8,1183123,2015-10-08,Active
+EMP0672,Shravya Mistry,Female,Senior Loan Officer,Retail Banking,BR067,22,5.0,1402185,2003-12-20,Active
+EMP0673,Kai Kannan,Male,Sales Executive,Sales,BR157,17,4.3,800210,2008-10-30,On Leave
+EMP0674,Chaman Sanghvi,Female,Operations Executive,Operations,BR033,12,2.5,725877,2014-05-18,Resigned
+EMP0675,Rehaan Parmer,Male,Credit Analyst,Risk,BR126,13,4.4,1328654,2012-10-28,Active
+EMP0676,Osha Seshadri,Female,Regional Manager,Management,BR148,8,2.8,2930886,2018-02-24,Active
+EMP0677,Arya Mukhopadhyay,Female,Loan Officer,Retail Banking,BR077,25,3.0,1216500,2001-06-19,Active
+EMP0678,Gautami Wable,Female,Relationship Manager,Retail Banking,BR021,11,2.7,1157071,2014-09-08,Active
+EMP0679,Ojasvi Ratta,Female,Operations Executive,Operations,BR075,21,4.8,902000,2005-06-13,Active
+EMP0680,Chandran Prabhu,Male,Operations Executive,Operations,BR037,21,3.7,962176,2004-09-27,Active
+EMP0681,Nirja Parsa,Female,Loan Officer,Retail Banking,BR195,10,4.3,864570,2016-01-04,Active
+EMP0682,Ishwar Venkatesh,Male,Relationship Manager,Retail Banking,BR056,14,3.0,1229930,2011-10-02,Active
+EMP0683,Aarna Prakash,Female,Operations Executive,Operations,BR123,18,4.2,825306,2007-09-25,Active
+EMP0684,Charles Amble,Male,Relationship Manager,Retail Banking,BR113,21,3.4,1505248,2004-09-15,Active
+EMP0685,Krishna Pau,Female,Relationship Manager,Retail Banking,BR102,24,3.8,1336205,2002-05-21,Active
+EMP0686,Matthew Kadakia,Male,Loan Officer,Retail Banking,BR124,25,3.3,1183613,2001-07-04,Active
+EMP0687,Nisha Gour,Female,Relationship Manager,Retail Banking,BR165,13,3.2,1211725,2013-06-09,On Leave
+EMP0688,Daniel Varty,Male,Credit Analyst,Risk,BR048,3,4.1,969584,2022-09-15,Active
+EMP0689,Avni Chander,Female,Branch Manager,Management,BR062,5,3.9,1553034,2021-04-18,Active
+EMP0690,Jonathan Madan,Male,Sales Executive,Sales,BR175,23,4.6,796435,2003-02-22,Active
+EMP0691,Ridhi Ratti,Female,Senior Loan Officer,Retail Banking,BR015,8,3.5,1112740,2018-03-18,Active
+EMP0692,Mekhala Chatterjee,Female,Relationship Manager,Retail Banking,BR160,5,4.9,908359,2020-11-10,Active
+EMP0693,Sneha Kar,Female,Loan Officer,Retail Banking,BR123,12,3.0,931614,2014-03-25,Active
+EMP0694,Omya Bali,Female,Branch Manager,Management,BR128,11,3.1,2164275,2015-04-16,Resigned
+EMP0695,Falguni Dugal,Female,Loan Officer,Retail Banking,BR190,25,3.4,1049528,2001-05-19,Active
+EMP0696,Lohit Bhandari,Male,Operations Executive,Operations,BR123,14,2.8,815063,2012-03-21,Active
+EMP0697,Arjun Rana,Male,Senior Loan Officer,Retail Banking,BR177,4,4.3,1046825,2022-07-20,Active
+EMP0698,Ekantika Oak,Female,Senior Loan Officer,Retail Banking,BR148,17,3.3,1274769,2008-11-14,Active
+EMP0699,Jagvi Ahluwalia,Female,Branch Manager,Management,BR128,1,3.3,1445213,2025-01-03,Active
+EMP0700,Ubika Nayak,Female,Loan Officer,Retail Banking,BR158,23,3.5,1060848,2002-10-26,Active
+EMP0701,Gabriel Chacko,Male,Senior Loan Officer,Retail Banking,BR067,17,3.2,1411085,2008-12-18,Active
+EMP0702,Ekiya Purohit,Female,Operations Executive,Operations,BR210,3,5.0,544012,2023-01-13,Active
+EMP0703,Tejas Dalal,Male,Senior Loan Officer,Retail Banking,BR237,6,4.3,1080455,2019-08-24,Active
+EMP0704,Nathaniel Bora,Male,Regional Manager,Management,BR076,10,2.8,2588950,2015-11-20,Active
+EMP0705,Rachana Chowdhury,Female,Sales Executive,Sales,BR079,6,4.9,542062,2019-09-09,Active
+EMP0706,Sneha Mukherjee,Female,Loan Officer,Retail Banking,BR083,6,3.2,794541,2019-09-17,Active
+EMP0707,Hitesh Chatterjee,Male,Relationship Manager,Retail Banking,BR009,22,3.7,1329772,2003-11-10,Resigned
+EMP0708,Ojasvi Yadav,Female,Relationship Manager,Retail Banking,BR199,22,4.5,1276579,2003-10-31,Active
+EMP0709,Diya Dubey,Female,Relationship Manager,Retail Banking,BR241,17,2.7,1176248,2008-09-04,Resigned
+EMP0710,Warinder Reddy,Male,Senior Loan Officer,Retail Banking,BR169,15,2.6,1236839,2011-02-27,Active
+EMP0711,Tarak Purohit,Male,Relationship Manager,Retail Banking,BR016,11,4.3,1038091,2015-06-11,Active
+EMP0712,Yachana Tak,Female,Sales Executive,Sales,BR018,19,2.9,718127,2006-09-02,Resigned
+EMP0713,Rishi Vaidya,Male,Senior Loan Officer,Retail Banking,BR219,23,3.4,1626570,2002-09-27,Active
+EMP0714,Charles Ganesan,Male,Regional Manager,Management,BR246,5,3.1,2384151,2020-10-12,Active
+EMP0715,Isha Aurora,Female,Branch Manager,Management,BR059,14,4.7,1970827,2012-03-12,Active
+EMP0716,Finn Palla,Male,Relationship Manager,Retail Banking,BR104,23,4.3,1326583,2002-09-16,Active
+EMP0717,Rishi Sethi,Male,Relationship Manager,Retail Banking,BR086,15,3.8,1219426,2011-01-05,Active
+EMP0718,Praneel Divan,Male,Loan Officer,Retail Banking,BR108,12,2.6,800686,2014-01-30,Active
+EMP0719,Siya Narang,Female,Branch Manager,Management,BR213,8,3.7,1890338,2018-03-18,Active
+EMP0720,Wishi Kaur,Female,Relationship Manager,Retail Banking,BR087,15,3.0,1135967,2011-07-14,Active
+EMP0721,Pushti Roy,Female,Senior Loan Officer,Retail Banking,BR047,2,3.0,1021807,2023-08-12,Active
+EMP0722,Kabir Bhatt,Male,Credit Analyst,Risk,BR146,1,2.8,917401,2025-02-14,Active
+EMP0723,Ranbir Kohli,Male,Operations Executive,Operations,BR047,3,2.5,542827,2023-02-03,Active
+EMP0724,Tarak Bhattacharyya,Male,Loan Officer,Retail Banking,BR106,20,2.8,1117743,2006-04-13,Active
+EMP0725,Samuel Wali,Male,Branch Manager,Management,BR193,11,2.8,1970885,2015-04-06,Active
+EMP0726,Rishi Sur,Male,Credit Analyst,Risk,BR163,24,4.4,1492539,2001-10-06,Active
+EMP0727,Jack Grewal,Male,Loan Officer,Retail Banking,BR210,4,3.7,780820,2021-09-06,Active
+EMP0728,Michael Tella,Male,Regional Manager,Management,BR246,20,2.7,3795965,2005-08-27,Resigned
+EMP0729,Anika Pandey,Female,Credit Analyst,Risk,BR198,1,5.0,1013996,2025-02-13,Active
+EMP0730,Wishi Nath,Female,Loan Officer,Retail Banking,BR101,17,4.8,1022221,2009-07-27,Active
+EMP0731,Faqid Sekhon,Male,Relationship Manager,Retail Banking,BR163,12,4.3,1209458,2014-01-03,Active
+EMP0732,Nidhi Chaudhari,Female,Operations Executive,Operations,BR229,16,2.8,891094,2010-02-28,Active
+EMP0733,Garima Kamdar,Female,Regional Manager,Management,BR087,20,2.8,3433377,2005-10-18,Active
+EMP0734,Pooja Dara,Female,Loan Officer,Retail Banking,BR140,9,4.2,830546,2017-03-14,Resigned
+EMP0735,Ikshita Ganguly,Female,Operations Executive,Operations,BR128,7,2.8,716396,2019-01-25,Active
+EMP0736,Omaja Patla,Female,Credit Analyst,Risk,BR146,12,4.5,1365041,2014-06-23,Active
+EMP0737,Mohini Lanka,Female,Loan Officer,Retail Banking,BR183,1,2.7,642446,2025-03-12,Active
+EMP0738,Kritika Parmar,Female,Regional Manager,Management,BR119,3,2.8,2367505,2023-01-12,Active
+EMP0739,Harini Yogi,Female,Branch Manager,Management,BR165,16,3.0,2179197,2010-03-01,Active
+EMP0740,Manan Mangat,Male,Sales Executive,Sales,BR186,11,4.3,696541,2015-06-11,Active
+EMP0741,Ekaja Lala,Female,Operations Executive,Operations,BR012,5,3.4,600042,2021-06-14,Active
+EMP0742,Bishakha Mahajan,Female,Loan Officer,Retail Banking,BR114,3,4.1,698574,2023-05-06,Active
+EMP0743,Meghana Mall,Female,Branch Manager,Management,BR233,16,2.9,2107778,2010-03-16,Active
+EMP0744,Robert Dutta,Male,Loan Officer,Retail Banking,BR076,11,4.5,792680,2014-07-28,Active
+EMP0745,Chaitanya Gaba,Male,Loan Officer,Retail Banking,BR091,2,4.3,667431,2024-03-21,Active
+EMP0746,Michael Bhagat,Male,Loan Officer,Retail Banking,BR166,6,3.9,784093,2019-12-01,Active
+EMP0747,Radhika Kaur,Female,Operations Executive,Operations,BR026,18,4.1,801611,2008-06-06,Active
+EMP0748,Varsha Prabhakar,Female,Operations Executive,Operations,BR069,19,4.0,903747,2006-08-07,Active
+EMP0749,Hritik Tiwari,Male,Regional Manager,Management,BR228,20,4.1,3611501,2006-02-04,Active
+EMP0750,Priya Kata,Female,Relationship Manager,Retail Banking,BR067,20,4.1,1402270,2005-09-10,On Leave
+EMP0751,Christopher Bora,Male,Relationship Manager,Retail Banking,BR167,17,2.7,1250083,2008-12-01,Active
+EMP0752,Aarav Chaudry,Male,Sales Executive,Sales,BR154,5,4.5,551210,2021-01-19,Resigned
+EMP0753,Gunbir Pillai,Male,Relationship Manager,Retail Banking,BR143,12,2.6,1160986,2014-03-07,Resigned
+EMP0754,Peter Dhaliwal,Male,Loan Officer,Retail Banking,BR235,20,3.4,988426,2006-03-02,Active
+EMP0755,Bhavna Dhaliwal,Female,Relationship Manager,Retail Banking,BR172,4,4.7,951467,2021-09-22,Active
+EMP0756,Triveni Dhar,Female,Loan Officer,Retail Banking,BR213,17,2.6,1039972,2009-07-12,Active
+EMP0757,Tejas Vyas,Male,Relationship Manager,Retail Banking,BR008,24,3.7,1379620,2002-06-21,Active
+EMP0758,Caleb Vyas,Male,Regional Manager,Management,BR004,25,2.8,3620325,2001-03-27,Active
+EMP0759,Yahvi Hora,Female,Branch Manager,Management,BR021,25,4.8,2805843,2001-02-18,Active
+EMP0760,Turvi Dewan,Female,Sales Executive,Sales,BR009,24,4.4,909322,2001-08-05,Active
+EMP0761,Inaya Brar,Female,Senior Loan Officer,Retail Banking,BR076,1,3.1,955059,2024-07-26,Active
+EMP0762,Amruta Chakraborty,Female,Operations Executive,Operations,BR114,8,4.4,743819,2018-07-23,On Leave
+EMP0763,Netra Kunda,Female,Relationship Manager,Retail Banking,BR053,4,2.5,917708,2022-02-20,Active
+EMP0764,Imaran Mahajan,Male,Operations Executive,Operations,BR221,21,2.6,930490,2005-03-05,Active
+EMP0765,Garima Sane,Female,Regional Manager,Management,BR181,18,3.8,3550294,2007-11-05,Active
+EMP0766,Wishi Mutti,Female,Relationship Manager,Retail Banking,BR049,1,4.9,918719,2025-03-21,Active
+EMP0767,Chameli Venkataraman,Female,Relationship Manager,Retail Banking,BR123,5,5.0,952931,2021-05-05,On Leave
+EMP0768,Amol Chopra,Male,Loan Officer,Retail Banking,BR137,21,4.9,979145,2004-08-05,Active
+EMP0769,Manthan Mitra,Male,Loan Officer,Retail Banking,BR082,14,4.5,1001525,2012-06-03,Active
+EMP0770,Sarthak Balay,Male,Operations Executive,Operations,BR083,2,2.5,609059,2024-06-23,Active
+EMP0771,Idika Venkatesh,Female,Sales Executive,Sales,BR010,18,4.6,769023,2008-02-05,Active
+EMP0772,Aadi Prabhu,Male,Loan Officer,Retail Banking,BR030,6,2.6,693733,2020-01-14,Active
+EMP0773,Hritik Rana,Male,Sales Executive,Sales,BR197,8,4.2,629402,2017-12-30,Active
+EMP0774,Samar Palla,Male,Relationship Manager,Retail Banking,BR119,20,3.6,1348958,2005-10-18,Active
+EMP0775,Januja Palan,Female,Regional Manager,Management,BR113,16,4.6,3373739,2010-04-21,Active
+EMP0776,Advika Khurana,Female,Relationship Manager,Retail Banking,BR179,13,4.0,1176158,2012-12-07,Active
+EMP0777,Arjun Pingle,Male,Credit Analyst,Risk,BR216,17,4.3,1452601,2008-09-06,Active
+EMP0778,Patrick Sha,Male,Sales Executive,Sales,BR202,7,3.6,626805,2019-04-12,Active
+EMP0779,Triya Gill,Female,Senior Loan Officer,Retail Banking,BR220,16,3.2,1277062,2010-03-30,Active
+EMP0780,Falguni Kakar,Female,Relationship Manager,Retail Banking,BR116,12,3.6,1153411,2014-07-13,Active
+EMP0781,Varsha Srinivas,Female,Regional Manager,Management,BR164,18,2.7,3278182,2007-08-15,Active
+EMP0782,Osha Goyal,Female,Operations Executive,Operations,BR013,14,3.8,742068,2012-07-27,Active
+EMP0783,Leena Virk,Female,Operations Executive,Operations,BR190,5,3.7,665501,2020-08-30,Active
+EMP0784,Alka Gour,Female,Senior Loan Officer,Retail Banking,BR098,4,4.0,999393,2021-07-29,Active
+EMP0785,Jack Bhatti,Male,Loan Officer,Retail Banking,BR073,18,3.9,1095634,2008-07-17,Active
+EMP0786,Yashoda Narayan,Female,Senior Loan Officer,Retail Banking,BR005,5,4.1,1053815,2020-12-12,Active
+EMP0787,Anika Kota,Female,Credit Analyst,Risk,BR234,8,3.4,1159461,2017-07-27,Active
+EMP0788,Chaaya Thakur,Female,Branch Manager,Management,BR114,17,4.2,2451483,2009-06-20,Active
+EMP0789,Vaishnavi Kamdar,Female,Senior Loan Officer,Retail Banking,BR233,18,3.3,1405682,2008-02-02,Active
+EMP0790,Sarthak Devi,Male,Operations Executive,Operations,BR108,22,3.7,923359,2004-03-22,Active
+EMP0791,Rachana Boase,Female,Sales Executive,Sales,BR025,9,3.7,620676,2016-08-19,Active
+EMP0792,Sara Deshmukh,Female,Loan Officer,Retail Banking,BR038,4,2.9,698585,2022-03-18,Active
+EMP0793,Kamala Nigam,Female,Branch Manager,Management,BR110,21,3.8,2285553,2005-01-07,Active
+EMP0794,Ranveer Mangat,Male,Loan Officer,Retail Banking,BR166,25,4.0,1033463,2001-06-27,On Leave
+EMP0795,Wazir Atwal,Male,Credit Analyst,Risk,BR021,22,4.0,1528613,2004-04-29,Active
+EMP0796,Yahvi Bali,Female,Senior Loan Officer,Retail Banking,BR181,17,2.9,1351664,2009-01-16,Active
+EMP0797,Bhavini Sandal,Female,Loan Officer,Retail Banking,BR014,9,2.8,756432,2016-12-07,Active
+EMP0798,Ekbal Bir,Male,Operations Executive,Operations,BR129,20,3.2,878457,2005-12-02,Resigned
+EMP0799,Fariq Tailor,Male,Loan Officer,Retail Banking,BR034,21,3.9,987371,2004-12-02,Active
+EMP0800,Odika Oommen,Female,Loan Officer,Retail Banking,BR183,2,3.1,749046,2024-05-31,Active
+EMP0801,Ekansh Dhar,Male,Relationship Manager,Retail Banking,BR163,8,3.3,1149042,2017-12-14,Active
+EMP0802,Ansh Hans,Male,Operations Executive,Operations,BR091,16,5.0,792778,2010-07-09,Active
+EMP0803,Ekanta Khalsa,Female,Credit Analyst,Risk,BR013,13,3.0,1191918,2012-11-29,Active
+EMP0804,Qarin Pradhan,Male,Senior Loan Officer,Retail Banking,BR055,19,2.9,1306884,2007-06-05,Active
+EMP0805,Laban Dhingra,Male,Loan Officer,Retail Banking,BR221,14,4.8,862767,2011-08-24,Active
+EMP0806,George Palan,Male,Branch Manager,Management,BR152,5,2.7,1623728,2020-10-21,Active
+EMP0807,David Mohanty,Male,Sales Executive,Sales,BR127,1,4.2,502028,2024-12-05,Active
+EMP0808,Hemani Das,Female,Relationship Manager,Retail Banking,BR127,13,4.7,1110622,2013-07-11,Active
+EMP0809,Zansi Vig,Female,Operations Executive,Operations,BR093,14,2.8,811284,2012-05-31,Active
+EMP0810,Karan Chanda,Male,Sales Executive,Sales,BR128,8,3.1,625258,2018-03-11,On Leave
+EMP0811,Jasmit Babu,Female,Loan Officer,Retail Banking,BR190,4,3.6,765705,2021-08-23,Active
+EMP0812,Mohammed Thakur,Male,Loan Officer,Retail Banking,BR031,24,3.3,1101184,2001-11-14,Active
+EMP0813,Gaurika Narayanan,Female,Loan Officer,Retail Banking,BR145,13,3.8,814393,2012-09-05,Active
+EMP0814,Nandini Sule,Female,Senior Loan Officer,Retail Banking,BR005,13,3.7,1160800,2013-01-28,Active
+EMP0815,Parth Suresh,Male,Loan Officer,Retail Banking,BR227,24,4.9,1021668,2001-09-20,Active
+EMP0816,Anirudh Halder,Male,Loan Officer,Retail Banking,BR080,19,4.3,979293,2006-08-28,Active
+EMP0817,Vrinda Bakshi,Female,Credit Analyst,Risk,BR242,19,4.2,1483704,2007-03-08,Active
+EMP0818,Suhani Ben,Female,Loan Officer,Retail Banking,BR048,25,3.1,1199249,2000-09-02,Active
+EMP0819,Finn Bath,Male,Sales Executive,Sales,BR141,3,2.8,570453,2023-04-05,Active
+EMP0820,Suhani Kakar,Female,Loan Officer,Retail Banking,BR217,25,4.8,1159709,2000-12-04,Active
+EMP0821,Amaira Kannan,Female,Relationship Manager,Retail Banking,BR041,25,4.9,1529056,2001-06-24,Active
+EMP0822,Yahvi Bhatnagar,Female,Relationship Manager,Retail Banking,BR219,14,3.2,1304664,2011-11-23,Active
+EMP0823,Amaira Gopal,Female,Loan Officer,Retail Banking,BR242,18,4.7,968213,2007-10-18,Active
+EMP0824,Advika Ganesan,Female,Loan Officer,Retail Banking,BR196,1,3.2,662119,2025-03-12,Active
+EMP0825,Anvi Nayar,Female,Credit Analyst,Risk,BR082,22,3.5,1606244,2004-02-28,Active
+EMP0826,Reva Solanki,Female,Loan Officer,Retail Banking,BR060,2,3.3,747033,2024-07-03,Active
+EMP0827,Nathan Ganesan,Male,Credit Analyst,Risk,BR131,9,4.5,1273216,2016-11-06,Active
+EMP0828,Eshana Saha,Female,Branch Manager,Management,BR058,3,3.1,1657874,2022-10-08,Active
+EMP0829,Veda Kunda,Female,Branch Manager,Management,BR149,17,3.5,2222367,2008-10-27,Active
+EMP0830,Xalak Kaul,Female,Senior Loan Officer,Retail Banking,BR185,22,2.7,1350745,2004-07-25,Active
+EMP0831,Vivaan Upadhyay,Male,Operations Executive,Operations,BR145,5,4.8,582846,2021-05-11,Active
+EMP0832,Harinakshi Murthy,Female,Relationship Manager,Retail Banking,BR138,17,3.0,1361960,2009-02-12,Active
+EMP0833,Tamanna Dugar,Female,Regional Manager,Management,BR001,24,4.8,4077086,2002-06-11,Active
+EMP0834,Meghana Chatterjee,Female,Relationship Manager,Retail Banking,BR184,4,4.4,963221,2022-05-27,Active
+EMP0835,Oscar Srinivas,Male,Operations Executive,Operations,BR160,11,3.5,680656,2014-08-29,Active
+EMP0836,Yuvraj Varkey,Male,Loan Officer,Retail Banking,BR160,16,2.9,970997,2009-12-12,Active
+EMP0837,Aadi Taneja,Male,Loan Officer,Retail Banking,BR203,20,4.0,988501,2006-05-22,Active
+EMP0838,Krish Tank,Male,Loan Officer,Retail Banking,BR052,6,3.7,762908,2020-04-05,Active
+EMP0839,Baghyawati Chana,Female,Credit Analyst,Risk,BR205,24,4.4,1651441,2002-02-25,Active
+EMP0840,Yadavi Subramaniam,Female,Sales Executive,Sales,BR155,10,3.6,619621,2016-07-07,Active
+EMP0841,Ekbal Bala,Male,Operations Executive,Operations,BR025,13,2.6,786200,2012-12-08,Active
+EMP0842,Timothy Bedi,Male,Loan Officer,Retail Banking,BR174,8,2.9,784306,2018-07-18,Active
+EMP0843,Logan Bedi,Male,Loan Officer,Retail Banking,BR249,25,3.5,1211154,2001-03-10,Active
+EMP0844,Sudiksha Barman,Female,Loan Officer,Retail Banking,BR129,9,4.8,817539,2016-10-26,Active
+EMP0845,Gunbir Thaman,Male,Credit Analyst,Risk,BR185,13,2.9,1319089,2012-09-17,Resigned
+EMP0846,Unni Pandit,Female,Loan Officer,Retail Banking,BR222,24,4.7,1181240,2002-05-25,Active
+EMP0847,Balhaar Suri,Male,Senior Loan Officer,Retail Banking,BR134,25,3.3,1520635,2001-07-25,Active
+EMP0848,Faqid Mannan,Male,Sales Executive,Sales,BR090,4,4.6,505485,2021-10-01,Active
+EMP0849,Yashasvi Thakur,Female,Credit Analyst,Risk,BR184,14,4.4,1475833,2012-07-13,On Leave
+EMP0850,Guneet Kale,Male,Credit Analyst,Risk,BR208,15,2.9,1279669,2011-07-18,Active
+EMP0851,Neha Dave,Female,Sales Executive,Sales,BR031,21,4.1,770197,2005-06-26,Active
+EMP0852,Mahika Mishra,Female,Loan Officer,Retail Banking,BR097,9,2.7,802300,2017-03-01,Active
+EMP0853,Daniel Soni,Male,Loan Officer,Retail Banking,BR216,13,4.7,886352,2013-02-09,Active
+EMP0854,Jairaj Basu,Male,Relationship Manager,Retail Banking,BR160,13,2.9,1238028,2013-01-26,Active
+EMP0855,Yashvi Oza,Female,Relationship Manager,Retail Banking,BR014,9,3.0,1115680,2016-12-15,Active
+EMP0856,Sudiksha Bhattacharyya,Female,Credit Analyst,Risk,BR043,1,4.4,1031624,2025-06-23,Active
+EMP0857,Dayamai Lad,Female,Branch Manager,Management,BR055,24,3.0,2710322,2002-07-28,Active
+EMP0858,Robert Mukhopadhyay,Male,Sales Executive,Sales,BR189,23,3.2,838661,2002-08-21,Active
+EMP0859,Idika Lal,Female,Loan Officer,Retail Banking,BR130,6,4.1,808426,2019-11-08,Active
+EMP0860,Barkha Sarin,Female,Senior Loan Officer,Retail Banking,BR178,22,4.4,1583902,2003-10-27,On Leave
+EMP0861,Shravya Agate,Female,Senior Loan Officer,Retail Banking,BR208,13,3.6,1363826,2013-02-15,Active
+EMP0862,Xiti Swamy,Female,Operations Executive,Operations,BR104,6,4.4,608794,2019-10-25,Active
+EMP0863,Rehaan Pandit,Male,Relationship Manager,Retail Banking,BR097,11,3.2,1106752,2015-07-09,Active
+EMP0864,Alka Dyal,Female,Loan Officer,Retail Banking,BR096,5,2.8,814993,2020-10-15,Active
+EMP0865,Jyoti Kashyap,Female,Branch Manager,Management,BR239,11,3.7,1866193,2015-04-02,Active
+EMP0866,Faraj Varty,Male,Senior Loan Officer,Retail Banking,BR020,17,4.6,1224722,2008-10-14,Active
+EMP0867,Nakul Shukla,Male,Credit Analyst,Risk,BR133,2,2.9,1046948,2023-12-21,Active
+EMP0868,Idika Bala,Female,Loan Officer,Retail Banking,BR227,8,5.0,784712,2018-04-08,Active
+EMP0869,Charan Narayanan,Male,Relationship Manager,Retail Banking,BR046,2,2.7,836573,2024-06-01,Active
+EMP0870,Avi Bala,Male,Relationship Manager,Retail Banking,BR047,15,3.4,1227438,2011-05-10,Active
+EMP0871,Max Shetty,Male,Credit Analyst,Risk,BR129,19,3.5,1494629,2007-03-20,Active
+EMP0872,Ojas Chopra,Male,Credit Analyst,Risk,BR175,13,4.9,1442353,2012-10-20,Resigned
+EMP0873,Ikbal Virk,Male,Relationship Manager,Retail Banking,BR006,7,3.4,943976,2018-10-23,Active
+EMP0874,Bhavini Banik,Female,Relationship Manager,Retail Banking,BR212,9,4.1,1107434,2017-06-19,Active
+EMP0875,Arya Solanki,Female,Loan Officer,Retail Banking,BR054,18,3.4,997251,2007-11-03,Active
+EMP0876,Mitali Iyengar,Female,Relationship Manager,Retail Banking,BR106,8,4.2,1048734,2017-08-06,On Leave
+EMP0877,Kavya Saraf,Female,Senior Loan Officer,Retail Banking,BR115,6,4.8,998020,2019-08-24,Active
+EMP0878,Rushil Boase,Male,Branch Manager,Management,BR007,14,2.8,2181015,2012-05-10,Active
+EMP0879,Atharv Pant,Male,Loan Officer,Retail Banking,BR099,21,4.5,1079009,2005-03-10,Active
+EMP0880,Sarthak Kale,Male,Sales Executive,Sales,BR240,24,4.1,822138,2001-08-24,Active
+EMP0881,Jacob Som,Male,Loan Officer,Retail Banking,BR089,13,4.6,910119,2013-07-18,Active
+EMP0882,Darsh Sanghvi,Male,Relationship Manager,Retail Banking,BR011,6,2.5,1008179,2019-10-05,Active
+EMP0883,Wazir Sagar,Male,Relationship Manager,Retail Banking,BR164,3,2.6,960216,2022-12-16,Active
+EMP0884,Shaurya Arora,Male,Relationship Manager,Retail Banking,BR028,17,4.6,1224365,2009-04-17,Active
+EMP0885,Girindra Gopal,Male,Branch Manager,Management,BR050,10,3.0,1836966,2015-11-14,Active
+EMP0886,Falan Gour,Male,Loan Officer,Retail Banking,BR144,22,3.8,1129525,2004-06-10,Active
+EMP0887,Nathaniel Loyal,Male,Senior Loan Officer,Retail Banking,BR192,15,4.2,1269738,2010-09-10,Active
+EMP0888,Barkha Shan,Female,Branch Manager,Management,BR120,6,4.8,1880042,2020-03-15,Resigned
+EMP0889,Tarak Chhabra,Male,Branch Manager,Management,BR171,24,4.6,2577584,2001-12-07,Active
+EMP0890,Indali Krishnan,Female,Loan Officer,Retail Banking,BR164,2,3.3,736640,2024-07-23,Active
+EMP0891,Bimala Agate,Female,Operations Executive,Operations,BR175,12,3.5,697666,2014-03-17,Active
+EMP0892,Vincent Sarma,Male,Relationship Manager,Retail Banking,BR020,6,2.6,945160,2020-04-26,Active
+EMP0893,Simon Tara,Male,Regional Manager,Management,BR221,21,4.6,3782679,2005-03-13,Active
+EMP0894,Saksham Khatri,Male,Regional Manager,Management,BR015,7,4.1,2542062,2019-03-30,Resigned
+EMP0895,Arin Chahal,Male,Loan Officer,Retail Banking,BR097,9,4.3,826976,2017-05-30,Active
+EMP0896,Jason Bhakta,Male,Senior Loan Officer,Retail Banking,BR242,7,2.8,1024841,2019-02-02,Resigned
+EMP0897,Saksham Badal,Male,Regional Manager,Management,BR239,8,3.8,2480069,2017-10-11,Active
+EMP0898,Bina Raman,Female,Loan Officer,Retail Banking,BR067,24,5.0,1104144,2002-02-27,Active
+EMP0899,Damyanti Johal,Female,Loan Officer,Retail Banking,BR110,15,3.3,978618,2011-01-29,Active
+EMP0900,Yagnesh Mutti,Male,Loan Officer,Retail Banking,BR249,18,3.2,955076,2008-06-20,Active
+EMP0901,Oliver Modi,Male,Relationship Manager,Retail Banking,BR135,19,4.4,1205687,2007-03-04,Active
+EMP0902,Janya Upadhyay,Female,Regional Manager,Management,BR101,8,5.0,2571001,2018-04-25,Active
+EMP0903,Sudiksha Handa,Female,Credit Analyst,Risk,BR171,1,3.2,966204,2024-08-29,Active
+EMP0904,Anay Chanda,Male,Operations Executive,Operations,BR081,22,4.2,827084,2003-09-02,Active
+EMP0905,Udarsh Johal,Male,Regional Manager,Management,BR167,23,2.9,3958848,2002-12-11,Active
+EMP0906,Tejas Jayaraman,Male,Operations Executive,Operations,BR029,23,4.4,967421,2002-12-04,Active
+EMP0907,Teerth Mutti,Male,Sales Executive,Sales,BR005,11,5.0,657717,2015-04-11,Resigned
+EMP0908,Advay Sabharwal,Male,Loan Officer,Retail Banking,BR189,12,2.7,939841,2014-04-18,Active
+EMP0909,Chaitanya Shah,Male,Relationship Manager,Retail Banking,BR057,1,3.8,843149,2025-02-10,Active
+EMP0910,Vasana Puri,Female,Relationship Manager,Retail Banking,BR091,4,2.5,954785,2022-03-25,Active
+EMP0911,Bishakha Karan,Female,Sales Executive,Sales,BR230,5,3.8,570559,2020-08-05,Active
+EMP0912,Ishwar Sha,Male,Relationship Manager,Retail Banking,BR217,21,3.6,1497619,2004-09-30,Resigned
+EMP0913,Hitesh Misra,Male,Loan Officer,Retail Banking,BR022,2,4.2,705260,2024-03-30,Active
+EMP0914,Chaman Zacharia,Female,Sales Executive,Sales,BR189,8,3.8,622688,2017-10-02,Active
+EMP0915,Shivani Badal,Female,Loan Officer,Retail Banking,BR083,20,3.2,1125969,2006-01-25,Active
+EMP0916,Orinder Sandhu,Male,Relationship Manager,Retail Banking,BR143,22,3.3,1271881,2004-03-22,Active
+EMP0917,Chandani Raghavan,Female,Credit Analyst,Risk,BR161,13,3.9,1358388,2013-06-18,Active
+EMP0918,Sneha Mistry,Female,Operations Executive,Operations,BR223,2,2.6,619804,2024-01-19,Active
+EMP0919,Urishilla Bhasin,Female,Loan Officer,Retail Banking,BR207,6,3.0,722165,2020-07-21,Active
+EMP0920,Atharv Kale,Male,Sales Executive,Sales,BR035,20,3.6,808381,2006-05-09,Active
+EMP0921,Bahadurjit Nori,Male,Loan Officer,Retail Banking,BR048,16,4.8,1006106,2009-10-18,Active
+EMP0922,William Krishnamurthy,Male,Senior Loan Officer,Retail Banking,BR018,9,4.6,1149234,2017-05-05,Active
+EMP0923,Samar Dugar,Male,Loan Officer,Retail Banking,BR004,15,2.8,929860,2010-08-01,Active
+EMP0924,Ekanta Nair,Female,Relationship Manager,Retail Banking,BR181,10,3.5,1070031,2016-05-27,Active
+EMP0925,Mahika Oza,Female,Credit Analyst,Risk,BR051,3,5.0,968061,2022-11-21,Active
+EMP0926,Nihal Ganesh,Male,Loan Officer,Retail Banking,BR247,2,3.9,708556,2023-12-18,Active
+EMP0927,Widisha Mann,Female,Relationship Manager,Retail Banking,BR206,20,3.7,1302625,2005-11-20,Active
+EMP0928,Eta Chaudhari,Female,Loan Officer,Retail Banking,BR036,21,3.1,1149048,2004-11-26,Active
+EMP0929,Veda Shere,Female,Loan Officer,Retail Banking,BR135,5,3.4,748864,2021-02-18,Active
+EMP0930,Advay Mannan,Male,Operations Executive,Operations,BR029,3,2.8,596919,2022-10-27,On Leave
+EMP0931,Upma Ben,Female,Loan Officer,Retail Banking,BR207,17,2.8,957875,2009-06-27,Active
+EMP0932,Aayush Mital,Male,Sales Executive,Sales,BR022,6,3.4,551469,2019-10-21,Active
+EMP0933,Rajata Kalita,Female,Relationship Manager,Retail Banking,BR219,25,4.8,1448042,2000-10-28,Active
+EMP0934,Mahika Dhingra,Female,Relationship Manager,Retail Banking,BR204,16,3.3,1299344,2009-08-22,Active
+EMP0935,Yashvi Bajwa,Female,Credit Analyst,Risk,BR187,1,3.4,1032220,2025-01-08,Active
+EMP0936,Rushil Ravel,Male,Senior Loan Officer,Retail Banking,BR062,17,4.1,1446202,2009-04-19,Active
+EMP0937,Nachiket Krish,Male,Loan Officer,Retail Banking,BR213,9,4.7,800747,2017-02-18,Active
+EMP0938,Hemal Bal,Female,Relationship Manager,Retail Banking,BR078,23,3.7,1516611,2002-12-28,Active
+EMP0939,Chaman Bala,Female,Relationship Manager,Retail Banking,BR021,3,2.5,1007938,2022-09-16,Resigned
+EMP0940,Libni Bail,Female,Relationship Manager,Retail Banking,BR033,14,3.8,1295002,2011-10-28,Active
+EMP0941,Ayush Bala,Male,Senior Loan Officer,Retail Banking,BR150,12,3.1,1176056,2013-11-28,On Leave
+EMP0942,Oni Kakar,Female,Credit Analyst,Risk,BR082,5,4.4,1188188,2021-03-27,Active
+EMP0943,Oeshi Nazareth,Female,Operations Executive,Operations,BR060,3,2.8,544897,2023-07-24,Active
+EMP0944,Warjas Murthy,Male,Loan Officer,Retail Banking,BR249,19,2.8,1081102,2007-03-09,Active
+EMP0945,Timothy Manda,Male,Credit Analyst,Risk,BR034,1,4.2,1032936,2024-10-14,Active
+EMP0946,Isaac Kapoor,Male,Loan Officer,Retail Banking,BR108,11,4.5,864748,2014-10-19,Active
+EMP0947,Falan Om,Male,Operations Executive,Operations,BR051,11,3.0,727219,2014-08-01,Active
+EMP0948,Upasna Gill,Female,Loan Officer,Retail Banking,BR013,13,4.4,899953,2012-10-01,Active
+EMP0949,Frederick Solanki,Male,Sales Executive,Sales,BR057,13,3.3,628698,2012-11-25,Active
+EMP0950,Priya Kalita,Female,Loan Officer,Retail Banking,BR172,17,3.5,959762,2009-06-26,Active
+EMP0951,Jeevika Srinivas,Female,Regional Manager,Management,BR107,7,3.5,2408483,2018-12-21,Active
+EMP0952,Bhanumati Karnik,Female,Loan Officer,Retail Banking,BR143,3,4.9,711450,2023-03-01,Active
+EMP0953,Arunima Bhatnagar,Female,Loan Officer,Retail Banking,BR178,15,4.7,851590,2010-12-09,Active
+EMP0954,Champak Naik,Male,Loan Officer,Retail Banking,BR176,7,2.5,812452,2019-02-04,Active
+EMP0955,Qushi Swamy,Female,Senior Loan Officer,Retail Banking,BR009,24,3.1,1648497,2002-05-12,Active
+EMP0956,Bhavika Chaudry,Female,Relationship Manager,Retail Banking,BR164,18,3.9,1369869,2007-12-18,Resigned
+EMP0957,Aishani Goda,Female,Loan Officer,Retail Banking,BR205,15,2.9,851896,2011-04-21,Active
+EMP0958,Anthony Dua,Male,Loan Officer,Retail Banking,BR209,17,3.4,1013616,2009-07-20,Active
+EMP0959,Avi Sibal,Male,Credit Analyst,Risk,BR069,2,2.8,923272,2023-11-08,Active
+EMP0960,Janya Bail,Female,Loan Officer,Retail Banking,BR207,8,3.6,866180,2018-01-23,Active
+EMP0961,Kritika Parsa,Female,Loan Officer,Retail Banking,BR078,17,3.9,907674,2009-05-14,Active
+EMP0962,Jeet Master,Male,Regional Manager,Management,BR225,7,3.1,2654756,2018-10-02,Active
+EMP0963,Leena Aurora,Female,Credit Analyst,Risk,BR025,8,4.3,1099684,2018-07-25,Resigned
+EMP0964,Rajata Mukherjee,Female,Loan Officer,Retail Banking,BR089,16,3.4,993182,2010-01-05,Active
+EMP0965,Harini Luthra,Female,Loan Officer,Retail Banking,BR163,4,4.2,674167,2021-09-19,Active
+EMP0966,Daksh Gaba,Male,Senior Loan Officer,Retail Banking,BR166,5,4.2,943055,2020-10-08,Active
+EMP0967,Wahab Vala,Male,Operations Executive,Operations,BR208,6,3.3,590834,2019-11-02,Active
+EMP0968,Nimrat Sawhney,Female,Senior Loan Officer,Retail Banking,BR113,22,3.8,1491037,2004-03-26,Active
+EMP0969,Samuel Ramakrishnan,Male,Relationship Manager,Retail Banking,BR163,11,4.6,1023540,2015-04-17,Active
+EMP0970,Zayyan Lanka,Male,Sales Executive,Sales,BR075,1,3.9,491523,2025-03-07,Active
+EMP0971,Tristan Wadhwa,Male,Loan Officer,Retail Banking,BR088,18,4.9,951500,2007-12-09,Active
+EMP0972,Lucky Bains,Male,Relationship Manager,Retail Banking,BR126,10,2.7,1054034,2016-06-20,Active
+EMP0973,Nidhi Ramanathan,Female,Relationship Manager,Retail Banking,BR025,8,3.7,954790,2018-07-22,Active
+EMP0974,Anusha Shan,Female,Credit Analyst,Risk,BR189,22,4.3,1550331,2003-09-22,Active
+EMP0975,Girish Pillai,Male,Credit Analyst,Risk,BR206,18,4.9,1478897,2007-11-01,Active
+EMP0976,Quincy Sha,Male,Senior Loan Officer,Retail Banking,BR249,16,3.5,1324304,2009-12-13,Active
+EMP0977,Sneha Thaker,Female,Loan Officer,Retail Banking,BR102,2,3.9,696103,2024-04-06,Active
+EMP0978,Indali Borde,Female,Relationship Manager,Retail Banking,BR070,22,2.6,1331728,2004-04-16,Active
+EMP0979,Krishna Warrior,Female,Loan Officer,Retail Banking,BR165,4,4.9,732998,2021-08-14,Active
+EMP0980,Tanay Varma,Male,Loan Officer,Retail Banking,BR211,19,4.7,952614,2007-01-14,Resigned
+EMP0981,Anjali Mann,Female,Operations Executive,Operations,BR052,3,2.9,644479,2023-07-01,Active
+EMP0982,Baljiwan Wali,Male,Operations Executive,Operations,BR212,3,4.7,550680,2023-04-30,Active
+EMP0983,Abeer Divan,Male,Credit Analyst,Risk,BR095,16,4.5,1498877,2010-01-05,Active
+EMP0984,Christopher Sem,Male,Loan Officer,Retail Banking,BR185,8,3.6,763724,2018-05-21,On Leave
+EMP0985,Baghyawati Ghose,Female,Loan Officer,Retail Banking,BR228,1,4.0,728336,2024-11-24,Active
+EMP0986,Vincent Kibe,Male,Loan Officer,Retail Banking,BR024,20,3.5,1136382,2005-09-05,Active
+EMP0987,Hritik Sekhon,Male,Senior Loan Officer,Retail Banking,BR072,19,3.7,1447958,2007-02-13,Active
+EMP0988,Aditya Arora,Male,Credit Analyst,Risk,BR167,24,3.9,1674880,2002-01-13,Active
+EMP0989,Jalsa Bora,Female,Sales Executive,Sales,BR150,23,3.0,840439,2003-05-05,Active
+EMP0990,Nachiket Nath,Male,Credit Analyst,Risk,BR125,3,3.6,1129201,2023-06-24,Active
+EMP0991,Yutika Chaudhuri,Female,Regional Manager,Management,BR129,23,4.5,3567995,2002-09-06,Active
+EMP0992,Lekha Guha,Female,Sales Executive,Sales,BR166,15,4.3,794750,2011-06-03,Active
+EMP0993,Fitan Bhandari,Male,Sales Executive,Sales,BR051,4,4.7,586185,2022-05-15,Active
+EMP0994,Anay Dey,Male,Regional Manager,Management,BR099,11,4.5,2795827,2015-04-29,Active
+EMP0995,Amruta Gade,Female,Credit Analyst,Risk,BR146,17,3.4,1432875,2008-12-10,Resigned
+EMP0996,Oeshi Lad,Female,Sales Executive,Sales,BR099,12,2.6,716945,2014-05-31,Active
+EMP0997,Odika Contractor,Female,Relationship Manager,Retail Banking,BR139,19,4.2,1425571,2007-04-30,Active
+EMP0998,Anya Modi,Female,Relationship Manager,Retail Banking,BR139,9,4.0,1171410,2016-11-27,Resigned
+EMP0999,Lajita Ram,Female,Senior Loan Officer,Retail Banking,BR159,11,3.1,1236491,2015-06-16,Active
+EMP1000,Triya Talwar,Female,Loan Officer,Retail Banking,BR163,1,3.2,734790,2025-06-23,Active
