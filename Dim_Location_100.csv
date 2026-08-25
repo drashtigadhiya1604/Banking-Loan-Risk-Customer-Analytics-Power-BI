@@ -1,0 +1,101 @@
+Location_ID,City,District,State,Region,Country,Postal_Code,Population,Urban_Rural,GDP_Index
+LOC001,Ahmedabad,Ahmedabad,Gujarat,West,India,753159,8621312,Urban,134.64
+LOC002,Surat,Surat,Gujarat,West,India,982388,17835186,Urban,109.92
+LOC003,Vadodara,Vadodara,Gujarat,West,India,361150,1789906,Rural,83.49
+LOC004,Rajkot,Rajkot,Gujarat,West,India,591854,8323611,Urban,82.65
+LOC005,Mumbai,Mumbai Suburban,Maharashtra,West,India,361442,490039,Urban,105.61
+LOC006,Pune,Pune,Maharashtra,West,India,290920,13117347,Urban,134.79
+LOC007,Delhi,New Delhi,Delhi,North,India,245508,14976208,Urban,75.13
+LOC008,Jaipur,Jaipur,Rajasthan,North,India,105571,7078189,Urban,147.01
+LOC009,Lucknow,Lucknow,Uttar Pradesh,North,India,273913,5636292,Urban,147.11
+LOC010,Bengaluru,Bengaluru Urban,Karnataka,South,India,665416,6921260,Urban,147.64
+LOC011,Chennai,Chennai,Tamil Nadu,South,India,306442,12908846,Urban,102.09
+LOC012,Hyderabad,Hyderabad,Telangana,South,India,274017,4938944,Urban,99.89
+LOC013,Kochi,Ernakulam,Kerala,South,India,957106,19717637,Urban,125.85
+LOC014,Kolkata,Kolkata,West Bengal,East,India,454310,2265345,Urban,136.39
+LOC015,Patna,Patna,Bihar,East,India,604097,10646258,Urban,110.44
+LOC016,Guwahati,Kamrup,Assam,Northeast,India,284675,1962633,Urban,145.43
+LOC017,Bhubaneswar,Khordha,Odisha,East,India,886217,12050543,Rural,76.36
+LOC018,Indore,Indore,Madhya Pradesh,Central,India,926003,14103510,Urban,118.39
+LOC019,Bhopal,Bhopal,Madhya Pradesh,Central,India,109519,15244193,Urban,88.57
+LOC020,Chandigarh,Chandigarh,Chandigarh,North,India,306067,4043667,Urban,144.72
+LOC021,Ahmedabad,Ahmedabad,Gujarat,West,India,584657,11605536,Urban,141.95
+LOC022,Surat,Surat,Gujarat,West,India,363081,15580660,Urban,131.13
+LOC023,Vadodara,Vadodara,Gujarat,West,India,935952,12374449,Rural,77.75
+LOC024,Rajkot,Rajkot,Gujarat,West,India,195609,7045541,Urban,120.81
+LOC025,Mumbai,Mumbai Suburban,Maharashtra,West,India,255394,11457148,Urban,127.7
+LOC026,Pune,Pune,Maharashtra,West,India,196545,10534094,Urban,97.96
+LOC027,Delhi,New Delhi,Delhi,North,India,937574,2673830,Urban,129.09
+LOC028,Jaipur,Jaipur,Rajasthan,North,India,424328,16283425,Urban,78.64
+LOC029,Lucknow,Lucknow,Uttar Pradesh,North,India,729826,17952320,Rural,77.39
+LOC030,Bengaluru,Bengaluru Urban,Karnataka,South,India,876531,19979997,Urban,93.77
+LOC031,Chennai,Chennai,Tamil Nadu,South,India,782587,14201826,Urban,148.43
+LOC032,Hyderabad,Hyderabad,Telangana,South,India,769331,1147941,Rural,100.06
+LOC033,Kochi,Ernakulam,Kerala,South,India,317118,4431263,Rural,117.3
+LOC034,Kolkata,Kolkata,West Bengal,East,India,239226,13935576,Urban,107.59
+LOC035,Patna,Patna,Bihar,East,India,256495,2022014,Rural,97.11
+LOC036,Guwahati,Kamrup,Assam,Northeast,India,575167,5730426,Rural,109.02
+LOC037,Bhubaneswar,Khordha,Odisha,East,India,611871,10710318,Urban,96.83
+LOC038,Indore,Indore,Madhya Pradesh,Central,India,523403,4965937,Urban,136.65
+LOC039,Bhopal,Bhopal,Madhya Pradesh,Central,India,657582,6069538,Urban,112.45
+LOC040,Chandigarh,Chandigarh,Chandigarh,North,India,454920,6093834,Urban,95.42
+LOC041,Ahmedabad,Ahmedabad,Gujarat,West,India,920006,18441201,Rural,102.1
+LOC042,Surat,Surat,Gujarat,West,India,924204,11985271,Urban,124.8
+LOC043,Vadodara,Vadodara,Gujarat,West,India,896538,10307559,Urban,127.84
+LOC044,Rajkot,Rajkot,Gujarat,West,India,394494,16346891,Urban,148.57
+LOC045,Mumbai,Mumbai Suburban,Maharashtra,West,India,850764,9910038,Rural,100.51
+LOC046,Pune,Pune,Maharashtra,West,India,287327,19533744,Rural,110.57
+LOC047,Delhi,New Delhi,Delhi,North,India,911301,8461837,Urban,95.53
+LOC048,Jaipur,Jaipur,Rajasthan,North,India,402856,16838930,Urban,134.82
+LOC049,Lucknow,Lucknow,Uttar Pradesh,North,India,464783,9239741,Urban,130.34
+LOC050,Bengaluru,Bengaluru Urban,Karnataka,South,India,968418,13755946,Urban,138.22
+LOC051,Chennai,Chennai,Tamil Nadu,South,India,821773,15142248,Rural,146.74
+LOC052,Hyderabad,Hyderabad,Telangana,South,India,643308,4809971,Urban,87.46
+LOC053,Kochi,Ernakulam,Kerala,South,India,977259,12197674,Rural,110.79
+LOC054,Kolkata,Kolkata,West Bengal,East,India,825012,2695321,Urban,129.78
+LOC055,Patna,Patna,Bihar,East,India,280173,19539934,Urban,145.23
+LOC056,Guwahati,Kamrup,Assam,Northeast,India,417368,18612574,Urban,122.77
+LOC057,Bhubaneswar,Khordha,Odisha,East,India,855409,976841,Urban,118.98
+LOC058,Indore,Indore,Madhya Pradesh,Central,India,754386,6114720,Urban,126.45
+LOC059,Bhopal,Bhopal,Madhya Pradesh,Central,India,761510,1454645,Rural,148.48
+LOC060,Chandigarh,Chandigarh,Chandigarh,North,India,273796,1866737,Rural,83.31
+LOC061,Ahmedabad,Ahmedabad,Gujarat,West,India,290366,16245444,Urban,77.67
+LOC062,Surat,Surat,Gujarat,West,India,587934,11830955,Urban,120.88
+LOC063,Vadodara,Vadodara,Gujarat,West,India,718832,6907393,Urban,142.74
+LOC064,Rajkot,Rajkot,Gujarat,West,India,100692,11811512,Urban,95.89
+LOC065,Mumbai,Mumbai Suburban,Maharashtra,West,India,529960,3911257,Urban,116.04
+LOC066,Pune,Pune,Maharashtra,West,India,137813,18502687,Urban,82.11
+LOC067,Delhi,New Delhi,Delhi,North,India,671705,17251602,Urban,118.57
+LOC068,Jaipur,Jaipur,Rajasthan,North,India,468698,4383882,Urban,135.97
+LOC069,Lucknow,Lucknow,Uttar Pradesh,North,India,773496,18115225,Urban,85.66
+LOC070,Bengaluru,Bengaluru Urban,Karnataka,South,India,724885,12892836,Urban,146.79
+LOC071,Chennai,Chennai,Tamil Nadu,South,India,239442,3097789,Urban,142.01
+LOC072,Hyderabad,Hyderabad,Telangana,South,India,100993,12862888,Urban,117.44
+LOC073,Kochi,Ernakulam,Kerala,South,India,745050,18150052,Urban,122.21
+LOC074,Kolkata,Kolkata,West Bengal,East,India,691705,12661376,Urban,148.25
+LOC075,Patna,Patna,Bihar,East,India,617378,9830935,Urban,128.12
+LOC076,Guwahati,Kamrup,Assam,Northeast,India,502539,5386073,Urban,94.49
+LOC077,Bhubaneswar,Khordha,Odisha,East,India,415414,16703249,Urban,76.48
+LOC078,Indore,Indore,Madhya Pradesh,Central,India,422424,16550550,Rural,85.75
+LOC079,Bhopal,Bhopal,Madhya Pradesh,Central,India,124929,4139815,Urban,147.06
+LOC080,Chandigarh,Chandigarh,Chandigarh,North,India,357425,9884908,Urban,85.23
+LOC081,Ahmedabad,Ahmedabad,Gujarat,West,India,511449,493029,Urban,117.02
+LOC082,Surat,Surat,Gujarat,West,India,355298,15964129,Urban,93.42
+LOC083,Vadodara,Vadodara,Gujarat,West,India,380691,5243073,Urban,96.43
+LOC084,Rajkot,Rajkot,Gujarat,West,India,616176,15975987,Urban,139.76
+LOC085,Mumbai,Mumbai Suburban,Maharashtra,West,India,879588,4015429,Urban,84.45
+LOC086,Pune,Pune,Maharashtra,West,India,396062,17951219,Urban,121.02
+LOC087,Delhi,New Delhi,Delhi,North,India,866798,17829403,Urban,101.23
+LOC088,Jaipur,Jaipur,Rajasthan,North,India,814878,19874116,Urban,75.21
+LOC089,Lucknow,Lucknow,Uttar Pradesh,North,India,680101,15337859,Urban,83.07
+LOC090,Bengaluru,Bengaluru Urban,Karnataka,South,India,820812,18357039,Urban,107.23
+LOC091,Chennai,Chennai,Tamil Nadu,South,India,946757,14402288,Urban,126.68
+LOC092,Hyderabad,Hyderabad,Telangana,South,India,762946,16219178,Rural,138.09
+LOC093,Kochi,Ernakulam,Kerala,South,India,598828,13198830,Urban,128.97
+LOC094,Kolkata,Kolkata,West Bengal,East,India,410848,15655651,Rural,79.95
+LOC095,Patna,Patna,Bihar,East,India,976901,158261,Urban,107.46
+LOC096,Guwahati,Kamrup,Assam,Northeast,India,400271,15902780,Rural,85.7
+LOC097,Bhubaneswar,Khordha,Odisha,East,India,601651,18474582,Rural,147.97
+LOC098,Indore,Indore,Madhya Pradesh,Central,India,664075,5201536,Urban,115.61
+LOC099,Bhopal,Bhopal,Madhya Pradesh,Central,India,150912,2345771,Urban,95.04
+LOC100,Chandigarh,Chandigarh,Chandigarh,North,India,189334,2161163,Urban,76.92
