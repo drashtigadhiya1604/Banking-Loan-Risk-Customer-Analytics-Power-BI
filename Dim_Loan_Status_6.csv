@@ -1,0 +1,7 @@
+Loan_Status_ID,Loan_Status,Description
+1,Approved,Loan application approved and awaiting/ready for disbursement
+2,Rejected,Loan application rejected after assessment
+3,Under Review,Application is under credit and document review
+4,Disbursed,Loan amount has been disbursed to the customer
+5,Closed,Loan has been fully repaid and closed
+6,Default,Loan is in default due to prolonged non-payment
