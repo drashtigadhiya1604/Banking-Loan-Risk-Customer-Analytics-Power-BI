@@ -1,0 +1,251 @@
+Branch_ID,Branch_Name,Branch_Type,Manager_Name,City,State,Region,Opening_Year,Number_of_Employees,Monthly_Target,Branch_Status
+BR001,Bengaluru Branch 1,Corporate,Nitin Verma,Bengaluru,Karnataka,South,2005,89,38600000,Active
+BR002,Bhubaneswar Branch 2,SME,Nitin Iyer,Bhubaneswar,Odisha,East,2020,111,26800000,Temporarily Closed
+BR003,Bhubaneswar Branch 3,Regional Office,Karan Singh,Bhubaneswar,Odisha,East,2024,25,36600000,Active
+BR004,Bengaluru Branch 4,Digital,Rohit Iyer,Bengaluru,Karnataka,South,2018,43,9500000,Under Renovation
+BR005,Delhi Branch 5,Regional Office,Amit Patel,Delhi,Delhi,North,2006,116,48200000,Temporarily Closed
+BR006,Vadodara Branch 6,Retail,Nitin Iyer,Vadodara,Gujarat,West,2004,79,37400000,Active
+BR007,Chennai Branch 7,Retail,Amit Joshi,Chennai,Tamil Nadu,South,2005,116,20100000,Under Renovation
+BR008,Lucknow Branch 8,Corporate,Rohit Sharma,Lucknow,Uttar Pradesh,North,1998,108,47100000,Temporarily Closed
+BR009,Vadodara Branch 9,Corporate,Rohit Das,Vadodara,Gujarat,West,2001,69,37000000,Active
+BR010,Shillong Branch 10,Retail,Anjali Nair,Shillong,Meghalaya,Northeast,1996,84,47000000,Active
+BR011,Shillong Branch 11,SME,Riya Iyer,Shillong,Meghalaya,Northeast,2017,20,12400000,Active
+BR012,Lucknow Branch 12,SME,Riya Sharma,Lucknow,Uttar Pradesh,North,2001,96,48600000,Temporarily Closed
+BR013,Guwahati Branch 13,Digital,Anjali Singh,Guwahati,Assam,Northeast,2024,28,12700000,Under Renovation
+BR014,Shillong Branch 14,SME,Sneha Verma,Shillong,Meghalaya,Northeast,2019,85,30200000,Active
+BR015,Ahmedabad Branch 15,Digital,Pooja Gupta,Ahmedabad,Gujarat,West,2018,42,21200000,Active
+BR016,Mumbai Branch 16,Retail,Anjali Joshi,Mumbai,Maharashtra,West,2023,71,44600000,Active
+BR017,Surat Branch 17,Regional Office,Rohit Das,Surat,Gujarat,West,2021,94,21600000,Under Renovation
+BR018,Ahmedabad Branch 18,Digital,Amit Sharma,Ahmedabad,Gujarat,West,2015,46,27500000,Under Renovation
+BR019,Lucknow Branch 19,Regional Office,Rohit Sharma,Lucknow,Uttar Pradesh,North,2022,20,13200000,Active
+BR020,Chennai Branch 20,Digital,Anjali Sharma,Chennai,Tamil Nadu,South,1995,20,9100000,Active
+BR021,Pune Branch 21,SME,Vikas Joshi,Pune,Maharashtra,West,2006,102,48300000,Temporarily Closed
+BR022,Chennai Branch 22,Regional Office,Anjali Verma,Chennai,Tamil Nadu,South,2000,52,35800000,Active
+BR023,Jaipur Branch 23,Digital,Karan Verma,Jaipur,Rajasthan,North,2015,84,47900000,Active
+BR024,Ahmedabad Branch 24,SME,Rohit Joshi,Ahmedabad,Gujarat,West,2018,97,16500000,Active
+BR025,Guwahati Branch 25,Corporate,Riya Sharma,Guwahati,Assam,Northeast,2018,78,28200000,Active
+BR026,Patna Branch 26,Corporate,Riya Mehta,Patna,Bihar,East,2020,25,13900000,Active
+BR027,Bengaluru Branch 27,Corporate,Nitin Gupta,Bengaluru,Karnataka,South,2018,57,12500000,Temporarily Closed
+BR028,Rajkot Branch 28,Corporate,Vikas Mehta,Rajkot,Gujarat,West,2005,59,16600000,Under Renovation
+BR029,Kochi Branch 29,Retail,Vikas Sharma,Kochi,Kerala,South,2002,68,16700000,Active
+BR030,Delhi Branch 30,Digital,Riya Gupta,Delhi,Delhi,North,1999,31,5000000,Active
+BR031,Guwahati Branch 31,Digital,Rohit Patel,Guwahati,Assam,Northeast,2001,60,25700000,Active
+BR032,Patna Branch 32,SME,Amit Patel,Patna,Bihar,East,2016,119,31900000,Active
+BR033,Patna Branch 33,Corporate,Rohit Gupta,Patna,Bihar,East,2009,38,11900000,Active
+BR034,Pune Branch 34,Corporate,Rohit Das,Pune,Maharashtra,West,2024,15,40500000,Active
+BR035,Jaipur Branch 35,Digital,Rahul Sharma,Jaipur,Rajasthan,North,2001,30,41600000,Temporarily Closed
+BR036,Kolkata Branch 36,Retail,Sneha Gupta,Kolkata,West Bengal,East,1995,99,46700000,Temporarily Closed
+BR037,Kolkata Branch 37,Regional Office,Riya Gupta,Kolkata,West Bengal,East,2007,61,26600000,Active
+BR038,Jaipur Branch 38,Digital,Riya Iyer,Jaipur,Rajasthan,North,2009,64,13200000,Active
+BR039,Shillong Branch 39,SME,Anjali Iyer,Shillong,Meghalaya,Northeast,2012,74,43600000,Active
+BR040,Bhubaneswar Branch 40,SME,Amit Mehta,Bhubaneswar,Odisha,East,2017,106,13200000,Temporarily Closed
+BR041,Shillong Branch 41,SME,Karan Gupta,Shillong,Meghalaya,Northeast,2010,98,44700000,Active
+BR042,Vadodara Branch 42,Regional Office,Rohit Gupta,Vadodara,Gujarat,West,1998,43,26800000,Under Renovation
+BR043,Patna Branch 43,SME,Rohit Das,Patna,Bihar,East,2002,15,36600000,Active
+BR044,Kolkata Branch 44,Corporate,Rahul Sharma,Kolkata,West Bengal,East,2010,41,32900000,Active
+BR045,Delhi Branch 45,Corporate,Anjali Joshi,Delhi,Delhi,North,2009,120,18700000,Temporarily Closed
+BR046,Delhi Branch 46,SME,Vikas Mehta,Delhi,Delhi,North,1995,38,12300000,Temporarily Closed
+BR047,Ahmedabad Branch 47,SME,Amit Verma,Ahmedabad,Gujarat,West,2003,47,49500000,Active
+BR048,Guwahati Branch 48,SME,Karan Mehta,Guwahati,Assam,Northeast,2005,110,13900000,Active
+BR049,Chennai Branch 49,Retail,Vikas Mehta,Chennai,Tamil Nadu,South,2019,18,39600000,Under Renovation
+BR050,Ahmedabad Branch 50,Retail,Rohit Das,Ahmedabad,Gujarat,West,2000,96,24700000,Temporarily Closed
+BR051,Surat Branch 51,Regional Office,Karan Iyer,Surat,Gujarat,West,2013,31,20900000,Under Renovation
+BR052,Vadodara Branch 52,SME,Vikas Singh,Vadodara,Gujarat,West,2011,28,16600000,Temporarily Closed
+BR053,Kolkata Branch 53,Retail,Rohit Mehta,Kolkata,West Bengal,East,2005,104,5800000,Under Renovation
+BR054,Surat Branch 54,Regional Office,Vikas Singh,Surat,Gujarat,West,2020,73,13100000,Temporarily Closed
+BR055,Hyderabad Branch 55,Digital,Rohit Das,Hyderabad,Telangana,South,1996,66,34900000,Active
+BR056,Bengaluru Branch 56,Corporate,Pooja Patel,Bengaluru,Karnataka,South,2006,52,49200000,Active
+BR057,Kolkata Branch 57,Corporate,Riya Mehta,Kolkata,West Bengal,East,2009,91,36600000,Active
+BR058,Bengaluru Branch 58,SME,Vikas Patel,Bengaluru,Karnataka,South,2003,62,40800000,Temporarily Closed
+BR059,Guwahati Branch 59,Digital,Nitin Sharma,Guwahati,Assam,Northeast,2006,96,49000000,Active
+BR060,Pune Branch 60,Digital,Pooja Patel,Pune,Maharashtra,West,2017,84,44200000,Active
+BR061,Ahmedabad Branch 61,Digital,Priya Mehta,Ahmedabad,Gujarat,West,2006,65,49000000,Active
+BR062,Ahmedabad Branch 62,Corporate,Karan Joshi,Ahmedabad,Gujarat,West,2023,21,46700000,Active
+BR063,Vadodara Branch 63,Corporate,Priya Das,Vadodara,Gujarat,West,1997,88,32300000,Active
+BR064,Hyderabad Branch 64,Digital,Neha Nair,Hyderabad,Telangana,South,1998,25,40800000,Under Renovation
+BR065,Kochi Branch 65,Digital,Priya Mehta,Kochi,Kerala,South,2001,118,5300000,Active
+BR066,Mumbai Branch 66,Regional Office,Rahul Nair,Mumbai,Maharashtra,West,2015,42,21900000,Active
+BR067,Delhi Branch 67,Regional Office,Pooja Singh,Delhi,Delhi,North,2018,16,18800000,Under Renovation
+BR068,Pune Branch 68,Regional Office,Vikas Joshi,Pune,Maharashtra,West,2015,32,45800000,Active
+BR069,Hyderabad Branch 69,Regional Office,Neha Singh,Hyderabad,Telangana,South,2010,21,12900000,Active
+BR070,Kochi Branch 70,Regional Office,Priya Iyer,Kochi,Kerala,South,2021,58,34600000,Under Renovation
+BR071,Patna Branch 71,SME,Neha Mehta,Patna,Bihar,East,2000,75,38800000,Under Renovation
+BR072,Guwahati Branch 72,Digital,Pooja Iyer,Guwahati,Assam,Northeast,2001,112,29300000,Temporarily Closed
+BR073,Surat Branch 73,Retail,Amit Iyer,Surat,Gujarat,West,2008,105,31800000,Active
+BR074,Chennai Branch 74,SME,Neha Gupta,Chennai,Tamil Nadu,South,2018,50,41600000,Temporarily Closed
+BR075,Vadodara Branch 75,Regional Office,Riya Das,Vadodara,Gujarat,West,2018,36,13700000,Active
+BR076,Bhubaneswar Branch 76,Regional Office,Neha Sharma,Bhubaneswar,Odisha,East,2022,88,45400000,Active
+BR077,Shillong Branch 77,Retail,Pooja Singh,Shillong,Meghalaya,Northeast,2012,30,25500000,Under Renovation
+BR078,Guwahati Branch 78,Corporate,Priya Mehta,Guwahati,Assam,Northeast,2005,17,43200000,Under Renovation
+BR079,Guwahati Branch 79,Corporate,Neha Verma,Guwahati,Assam,Northeast,2022,39,30800000,Under Renovation
+BR080,Surat Branch 80,SME,Rohit Joshi,Surat,Gujarat,West,2015,35,49400000,Active
+BR081,Jaipur Branch 81,Digital,Anjali Singh,Jaipur,Rajasthan,North,2000,68,21600000,Active
+BR082,Hyderabad Branch 82,Corporate,Rohit Verma,Hyderabad,Telangana,South,1995,22,38700000,Under Renovation
+BR083,Lucknow Branch 83,SME,Nitin Das,Lucknow,Uttar Pradesh,North,1996,20,39300000,Temporarily Closed
+BR084,Chennai Branch 84,Regional Office,Vikas Mehta,Chennai,Tamil Nadu,South,2016,105,17400000,Active
+BR085,Pune Branch 85,SME,Karan Das,Pune,Maharashtra,West,2015,91,44500000,Active
+BR086,Kolkata Branch 86,Corporate,Nitin Gupta,Kolkata,West Bengal,East,2011,40,38100000,Temporarily Closed
+BR087,Lucknow Branch 87,SME,Anjali Patel,Lucknow,Uttar Pradesh,North,2000,62,13500000,Active
+BR088,Bengaluru Branch 88,Digital,Pooja Patel,Bengaluru,Karnataka,South,2022,78,35800000,Active
+BR089,Hyderabad Branch 89,Digital,Sneha Gupta,Hyderabad,Telangana,South,2008,55,17600000,Under Renovation
+BR090,Pune Branch 90,Retail,Riya Verma,Pune,Maharashtra,West,2013,94,14400000,Active
+BR091,Ahmedabad Branch 91,Retail,Karan Das,Ahmedabad,Gujarat,West,2017,107,27000000,Temporarily Closed
+BR092,Patna Branch 92,Corporate,Rahul Verma,Patna,Bihar,East,2018,16,8400000,Temporarily Closed
+BR093,Guwahati Branch 93,Digital,Anjali Nair,Guwahati,Assam,Northeast,2006,62,49600000,Temporarily Closed
+BR094,Mumbai Branch 94,Retail,Rahul Verma,Mumbai,Maharashtra,West,1995,99,37100000,Active
+BR095,Kolkata Branch 95,SME,Riya Patel,Kolkata,West Bengal,East,2000,83,12300000,Under Renovation
+BR096,Hyderabad Branch 96,Corporate,Vikas Singh,Hyderabad,Telangana,South,2020,62,41800000,Active
+BR097,Vadodara Branch 97,Corporate,Neha Gupta,Vadodara,Gujarat,West,2019,78,11400000,Active
+BR098,Hyderabad Branch 98,Retail,Nitin Singh,Hyderabad,Telangana,South,2009,72,27600000,Active
+BR099,Bhubaneswar Branch 99,Digital,Rohit Nair,Bhubaneswar,Odisha,East,1998,66,5900000,Active
+BR100,Bengaluru Branch 100,Corporate,Amit Verma,Bengaluru,Karnataka,South,2020,94,28100000,Active
+BR101,Shillong Branch 101,Retail,Anjali Joshi,Shillong,Meghalaya,Northeast,2008,57,37600000,Active
+BR102,Ahmedabad Branch 102,Digital,Amit Gupta,Ahmedabad,Gujarat,West,1996,76,13000000,Temporarily Closed
+BR103,Kochi Branch 103,SME,Rahul Joshi,Kochi,Kerala,South,2014,68,12900000,Temporarily Closed
+BR104,Guwahati Branch 104,SME,Nitin Patel,Guwahati,Assam,Northeast,2000,102,36900000,Temporarily Closed
+BR105,Hyderabad Branch 105,Retail,Rohit Mehta,Hyderabad,Telangana,South,2006,106,34800000,Active
+BR106,Hyderabad Branch 106,Digital,Sneha Verma,Hyderabad,Telangana,South,2008,88,33600000,Under Renovation
+BR107,Guwahati Branch 107,Retail,Vikas Mehta,Guwahati,Assam,Northeast,1995,25,30100000,Active
+BR108,Lucknow Branch 108,Corporate,Pooja Sharma,Lucknow,Uttar Pradesh,North,2009,82,17200000,Temporarily Closed
+BR109,Lucknow Branch 109,Corporate,Vikas Mehta,Lucknow,Uttar Pradesh,North,2022,112,14500000,Under Renovation
+BR110,Delhi Branch 110,SME,Rahul Gupta,Delhi,Delhi,North,2020,63,44300000,Under Renovation
+BR111,Hyderabad Branch 111,Retail,Rahul Singh,Hyderabad,Telangana,South,2009,120,48900000,Active
+BR112,Ahmedabad Branch 112,Regional Office,Anjali Patel,Ahmedabad,Gujarat,West,2004,65,16200000,Active
+BR113,Jaipur Branch 113,Retail,Karan Verma,Jaipur,Rajasthan,North,2009,15,38000000,Active
+BR114,Chennai Branch 114,Regional Office,Nitin Patel,Chennai,Tamil Nadu,South,1995,50,30900000,Active
+BR115,Surat Branch 115,Retail,Rahul Verma,Surat,Gujarat,West,2023,104,16700000,Under Renovation
+BR116,Vadodara Branch 116,Retail,Amit Das,Vadodara,Gujarat,West,2002,42,13000000,Active
+BR117,Chennai Branch 117,SME,Neha Iyer,Chennai,Tamil Nadu,South,1997,97,45600000,Active
+BR118,Mumbai Branch 118,Regional Office,Nitin Mehta,Mumbai,Maharashtra,West,2000,91,11700000,Under Renovation
+BR119,Pune Branch 119,SME,Rohit Patel,Pune,Maharashtra,West,2024,88,13800000,Active
+BR120,Ahmedabad Branch 120,SME,Priya Das,Ahmedabad,Gujarat,West,2012,29,28800000,Active
+BR121,Bengaluru Branch 121,Digital,Neha Patel,Bengaluru,Karnataka,South,2009,50,35300000,Under Renovation
+BR122,Bengaluru Branch 122,Regional Office,Riya Mehta,Bengaluru,Karnataka,South,2010,70,7700000,Temporarily Closed
+BR123,Chennai Branch 123,Regional Office,Rohit Joshi,Chennai,Tamil Nadu,South,1999,117,11700000,Under Renovation
+BR124,Jaipur Branch 124,Digital,Nitin Mehta,Jaipur,Rajasthan,North,2005,119,13200000,Active
+BR125,Kolkata Branch 125,Retail,Karan Singh,Kolkata,West Bengal,East,2021,80,21300000,Active
+BR126,Surat Branch 126,Digital,Neha Sharma,Surat,Gujarat,West,2014,29,13900000,Active
+BR127,Lucknow Branch 127,Corporate,Riya Iyer,Lucknow,Uttar Pradesh,North,2015,53,44000000,Temporarily Closed
+BR128,Kolkata Branch 128,SME,Vikas Mehta,Kolkata,West Bengal,East,2005,34,19500000,Temporarily Closed
+BR129,Vadodara Branch 129,SME,Priya Das,Vadodara,Gujarat,West,2012,42,26900000,Active
+BR130,Bengaluru Branch 130,SME,Nitin Sharma,Bengaluru,Karnataka,South,2022,49,27200000,Active
+BR131,Shillong Branch 131,Digital,Sneha Sharma,Shillong,Meghalaya,Northeast,2015,100,27200000,Active
+BR132,Chennai Branch 132,SME,Neha Joshi,Chennai,Tamil Nadu,South,1995,102,6600000,Active
+BR133,Hyderabad Branch 133,Digital,Neha Gupta,Hyderabad,Telangana,South,1996,41,45900000,Active
+BR134,Bengaluru Branch 134,SME,Karan Gupta,Bengaluru,Karnataka,South,2023,17,27000000,Active
+BR135,Mumbai Branch 135,Corporate,Pooja Mehta,Mumbai,Maharashtra,West,2016,120,41300000,Under Renovation
+BR136,Hyderabad Branch 136,SME,Amit Gupta,Hyderabad,Telangana,South,2017,20,36800000,Active
+BR137,Hyderabad Branch 137,Corporate,Vikas Joshi,Hyderabad,Telangana,South,2006,89,13400000,Active
+BR138,Vadodara Branch 138,SME,Priya Joshi,Vadodara,Gujarat,West,2012,45,44400000,Temporarily Closed
+BR139,Kolkata Branch 139,Regional Office,Anjali Singh,Kolkata,West Bengal,East,1996,116,19600000,Temporarily Closed
+BR140,Lucknow Branch 140,Regional Office,Sneha Gupta,Lucknow,Uttar Pradesh,North,2013,100,32600000,Active
+BR141,Ahmedabad Branch 141,Digital,Anjali Iyer,Ahmedabad,Gujarat,West,2016,54,19500000,Temporarily Closed
+BR142,Surat Branch 142,Digital,Rohit Nair,Surat,Gujarat,West,1999,33,39800000,Active
+BR143,Kochi Branch 143,Regional Office,Karan Nair,Kochi,Kerala,South,2000,30,11100000,Temporarily Closed
+BR144,Surat Branch 144,Regional Office,Anjali Singh,Surat,Gujarat,West,2011,51,32300000,Under Renovation
+BR145,Pune Branch 145,Regional Office,Priya Iyer,Pune,Maharashtra,West,1999,50,9100000,Active
+BR146,Patna Branch 146,Corporate,Anjali Joshi,Patna,Bihar,East,2019,19,38400000,Temporarily Closed
+BR147,Pune Branch 147,Retail,Sneha Patel,Pune,Maharashtra,West,2000,112,29900000,Active
+BR148,Hyderabad Branch 148,Regional Office,Karan Mehta,Hyderabad,Telangana,South,2014,60,13000000,Active
+BR149,Pune Branch 149,Regional Office,Priya Mehta,Pune,Maharashtra,West,2014,65,12700000,Active
+BR150,Ahmedabad Branch 150,SME,Amit Patel,Ahmedabad,Gujarat,West,2020,77,16100000,Active
+BR151,Pune Branch 151,SME,Riya Gupta,Pune,Maharashtra,West,2017,17,17200000,Active
+BR152,Shillong Branch 152,Regional Office,Amit Das,Shillong,Meghalaya,Northeast,2002,117,36400000,Active
+BR153,Bhubaneswar Branch 153,Regional Office,Priya Verma,Bhubaneswar,Odisha,East,2017,43,20800000,Active
+BR154,Chennai Branch 154,Digital,Rohit Nair,Chennai,Tamil Nadu,South,2014,47,14700000,Active
+BR155,Bhubaneswar Branch 155,Retail,Vikas Verma,Bhubaneswar,Odisha,East,2010,60,45900000,Active
+BR156,Lucknow Branch 156,Retail,Neha Gupta,Lucknow,Uttar Pradesh,North,2015,85,14800000,Active
+BR157,Pune Branch 157,SME,Neha Patel,Pune,Maharashtra,West,2009,119,44200000,Under Renovation
+BR158,Kolkata Branch 158,Digital,Priya Verma,Kolkata,West Bengal,East,2005,106,43500000,Active
+BR159,Kolkata Branch 159,Regional Office,Rahul Gupta,Kolkata,West Bengal,East,2007,98,13500000,Active
+BR160,Patna Branch 160,Corporate,Vikas Verma,Patna,Bihar,East,1995,59,39000000,Active
+BR161,Jaipur Branch 161,Retail,Vikas Singh,Jaipur,Rajasthan,North,2004,18,16300000,Active
+BR162,Hyderabad Branch 162,Corporate,Vikas Joshi,Hyderabad,Telangana,South,2004,86,33000000,Active
+BR163,Vadodara Branch 163,Corporate,Priya Iyer,Vadodara,Gujarat,West,2018,31,8600000,Under Renovation
+BR164,Jaipur Branch 164,Regional Office,Neha Joshi,Jaipur,Rajasthan,North,1997,51,33200000,Active
+BR165,Chennai Branch 165,Regional Office,Neha Nair,Chennai,Tamil Nadu,South,2000,113,10800000,Temporarily Closed
+BR166,Patna Branch 166,Retail,Vikas Sharma,Patna,Bihar,East,2016,107,14800000,Temporarily Closed
+BR167,Guwahati Branch 167,Retail,Rohit Nair,Guwahati,Assam,Northeast,2006,51,29700000,Temporarily Closed
+BR168,Hyderabad Branch 168,Retail,Neha Joshi,Hyderabad,Telangana,South,2000,45,41800000,Under Renovation
+BR169,Surat Branch 169,SME,Anjali Singh,Surat,Gujarat,West,2017,73,5400000,Active
+BR170,Chennai Branch 170,Regional Office,Karan Verma,Chennai,Tamil Nadu,South,2018,53,49300000,Temporarily Closed
+BR171,Mumbai Branch 171,Corporate,Rohit Singh,Mumbai,Maharashtra,West,1999,28,41900000,Active
+BR172,Chennai Branch 172,Regional Office,Amit Das,Chennai,Tamil Nadu,South,2013,52,43600000,Under Renovation
+BR173,Kolkata Branch 173,Digital,Amit Singh,Kolkata,West Bengal,East,2005,103,15900000,Active
+BR174,Ahmedabad Branch 174,Retail,Sneha Singh,Ahmedabad,Gujarat,West,2013,29,20200000,Active
+BR175,Mumbai Branch 175,Digital,Riya Singh,Mumbai,Maharashtra,West,2000,59,10200000,Active
+BR176,Delhi Branch 176,Retail,Nitin Joshi,Delhi,Delhi,North,1998,96,35100000,Active
+BR177,Bhubaneswar Branch 177,Retail,Vikas Das,Bhubaneswar,Odisha,East,2022,27,35000000,Temporarily Closed
+BR178,Pune Branch 178,SME,Vikas Das,Pune,Maharashtra,West,1996,40,7400000,Temporarily Closed
+BR179,Chennai Branch 179,Retail,Priya Verma,Chennai,Tamil Nadu,South,2018,59,35700000,Active
+BR180,Chennai Branch 180,Retail,Priya Gupta,Chennai,Tamil Nadu,South,2014,115,17500000,Active
+BR181,Kolkata Branch 181,Corporate,Sneha Singh,Kolkata,West Bengal,East,2015,38,30000000,Under Renovation
+BR182,Guwahati Branch 182,Retail,Nitin Nair,Guwahati,Assam,Northeast,2004,94,10800000,Active
+BR183,Rajkot Branch 183,SME,Amit Patel,Rajkot,Gujarat,West,2008,90,22300000,Active
+BR184,Chennai Branch 184,Regional Office,Rahul Verma,Chennai,Tamil Nadu,South,2016,40,42300000,Active
+BR185,Lucknow Branch 185,Retail,Priya Nair,Lucknow,Uttar Pradesh,North,2009,116,16700000,Active
+BR186,Vadodara Branch 186,Digital,Riya Verma,Vadodara,Gujarat,West,1997,116,42600000,Temporarily Closed
+BR187,Ahmedabad Branch 187,Corporate,Priya Iyer,Ahmedabad,Gujarat,West,2021,84,21800000,Under Renovation
+BR188,Lucknow Branch 188,Digital,Vikas Patel,Lucknow,Uttar Pradesh,North,2021,74,22700000,Temporarily Closed
+BR189,Patna Branch 189,Retail,Neha Sharma,Patna,Bihar,East,2015,38,9400000,Active
+BR190,Kolkata Branch 190,Regional Office,Amit Mehta,Kolkata,West Bengal,East,2021,82,33400000,Active
+BR191,Vadodara Branch 191,SME,Anjali Gupta,Vadodara,Gujarat,West,2024,91,46500000,Active
+BR192,Shillong Branch 192,Corporate,Riya Gupta,Shillong,Meghalaya,Northeast,2004,83,39500000,Temporarily Closed
+BR193,Delhi Branch 193,Digital,Vikas Das,Delhi,Delhi,North,1998,95,45900000,Temporarily Closed
+BR194,Jaipur Branch 194,Retail,Vikas Verma,Jaipur,Rajasthan,North,2003,93,32400000,Active
+BR195,Mumbai Branch 195,Corporate,Amit Sharma,Mumbai,Maharashtra,West,2003,90,27800000,Temporarily Closed
+BR196,Rajkot Branch 196,SME,Sneha Nair,Rajkot,Gujarat,West,2019,81,30000000,Temporarily Closed
+BR197,Bengaluru Branch 197,SME,Karan Singh,Bengaluru,Karnataka,South,2007,104,27300000,Active
+BR198,Mumbai Branch 198,SME,Riya Mehta,Mumbai,Maharashtra,West,2003,97,18900000,Temporarily Closed
+BR199,Guwahati Branch 199,Retail,Pooja Sharma,Guwahati,Assam,Northeast,2015,41,5600000,Temporarily Closed
+BR200,Jaipur Branch 200,SME,Neha Joshi,Jaipur,Rajasthan,North,2008,45,36000000,Active
+BR201,Guwahati Branch 201,SME,Neha Patel,Guwahati,Assam,Northeast,2001,77,33700000,Under Renovation
+BR202,Lucknow Branch 202,Digital,Nitin Joshi,Lucknow,Uttar Pradesh,North,1995,24,23000000,Active
+BR203,Delhi Branch 203,Retail,Neha Gupta,Delhi,Delhi,North,2001,54,19800000,Temporarily Closed
+BR204,Lucknow Branch 204,Regional Office,Pooja Sharma,Lucknow,Uttar Pradesh,North,2015,19,6100000,Under Renovation
+BR205,Shillong Branch 205,Digital,Sneha Sharma,Shillong,Meghalaya,Northeast,2019,43,16800000,Temporarily Closed
+BR206,Kochi Branch 206,Regional Office,Nitin Mehta,Kochi,Kerala,South,2011,30,41500000,Active
+BR207,Rajkot Branch 207,Regional Office,Rahul Verma,Rajkot,Gujarat,West,2017,89,22500000,Active
+BR208,Mumbai Branch 208,Retail,Anjali Gupta,Mumbai,Maharashtra,West,1998,113,46100000,Temporarily Closed
+BR209,Shillong Branch 209,Corporate,Vikas Joshi,Shillong,Meghalaya,Northeast,2004,51,8500000,Active
+BR210,Vadodara Branch 210,Regional Office,Priya Das,Vadodara,Gujarat,West,2018,27,12000000,Under Renovation
+BR211,Kolkata Branch 211,Digital,Priya Singh,Kolkata,West Bengal,East,2021,44,45600000,Active
+BR212,Patna Branch 212,Corporate,Rahul Das,Patna,Bihar,East,2011,88,41700000,Active
+BR213,Mumbai Branch 213,Retail,Pooja Mehta,Mumbai,Maharashtra,West,2007,113,13300000,Under Renovation
+BR214,Ahmedabad Branch 214,Corporate,Karan Das,Ahmedabad,Gujarat,West,2022,86,39400000,Active
+BR215,Delhi Branch 215,Corporate,Sneha Das,Delhi,Delhi,North,2004,87,29000000,Under Renovation
+BR216,Patna Branch 216,Regional Office,Sneha Joshi,Patna,Bihar,East,2013,55,27400000,Active
+BR217,Pune Branch 217,SME,Rohit Singh,Pune,Maharashtra,West,1995,54,34900000,Active
+BR218,Shillong Branch 218,Digital,Rahul Joshi,Shillong,Meghalaya,Northeast,2003,27,5800000,Under Renovation
+BR219,Delhi Branch 219,Retail,Rahul Verma,Delhi,Delhi,North,2018,74,23100000,Temporarily Closed
+BR220,Bhubaneswar Branch 220,Digital,Nitin Mehta,Bhubaneswar,Odisha,East,2002,29,24000000,Active
+BR221,Jaipur Branch 221,Regional Office,Anjali Sharma,Jaipur,Rajasthan,North,1995,99,47800000,Active
+BR222,Chennai Branch 222,SME,Nitin Nair,Chennai,Tamil Nadu,South,1998,64,27100000,Under Renovation
+BR223,Pune Branch 223,Digital,Rohit Joshi,Pune,Maharashtra,West,2024,62,19300000,Temporarily Closed
+BR224,Vadodara Branch 224,SME,Anjali Joshi,Vadodara,Gujarat,West,2014,56,13700000,Active
+BR225,Guwahati Branch 225,SME,Priya Nair,Guwahati,Assam,Northeast,2003,41,15100000,Active
+BR226,Jaipur Branch 226,Retail,Neha Iyer,Jaipur,Rajasthan,North,2013,21,25500000,Active
+BR227,Jaipur Branch 227,SME,Amit Nair,Jaipur,Rajasthan,North,2008,120,37200000,Under Renovation
+BR228,Guwahati Branch 228,Retail,Amit Patel,Guwahati,Assam,Northeast,1995,65,19200000,Active
+BR229,Kolkata Branch 229,Regional Office,Vikas Iyer,Kolkata,West Bengal,East,1997,15,29700000,Active
+BR230,Bhubaneswar Branch 230,Retail,Karan Patel,Bhubaneswar,Odisha,East,2009,108,46100000,Active
+BR231,Mumbai Branch 231,Regional Office,Karan Gupta,Mumbai,Maharashtra,West,2015,52,15400000,Active
+BR232,Lucknow Branch 232,Digital,Rahul Sharma,Lucknow,Uttar Pradesh,North,2024,47,22500000,Temporarily Closed
+BR233,Bengaluru Branch 233,Digital,Riya Patel,Bengaluru,Karnataka,South,2010,94,29500000,Active
+BR234,Guwahati Branch 234,Regional Office,Karan Gupta,Guwahati,Assam,Northeast,2003,33,28800000,Temporarily Closed
+BR235,Mumbai Branch 235,Corporate,Rahul Patel,Mumbai,Maharashtra,West,2005,39,14100000,Active
+BR236,Mumbai Branch 236,SME,Vikas Patel,Mumbai,Maharashtra,West,2001,28,12900000,Temporarily Closed
+BR237,Rajkot Branch 237,Retail,Amit Gupta,Rajkot,Gujarat,West,2003,27,44000000,Under Renovation
+BR238,Chennai Branch 238,SME,Rahul Nair,Chennai,Tamil Nadu,South,2005,84,47800000,Temporarily Closed
+BR239,Rajkot Branch 239,Digital,Neha Iyer,Rajkot,Gujarat,West,2003,70,26900000,Under Renovation
+BR240,Rajkot Branch 240,SME,Anjali Das,Rajkot,Gujarat,West,2022,88,12500000,Under Renovation
+BR241,Vadodara Branch 241,SME,Anjali Sharma,Vadodara,Gujarat,West,2015,100,34600000,Active
+BR242,Pune Branch 242,Digital,Nitin Gupta,Pune,Maharashtra,West,2014,90,11000000,Under Renovation
+BR243,Kolkata Branch 243,Regional Office,Vikas Sharma,Kolkata,West Bengal,East,2005,26,7300000,Under Renovation
+BR244,Pune Branch 244,Digital,Amit Patel,Pune,Maharashtra,West,1997,64,37400000,Active
+BR245,Kolkata Branch 245,Retail,Nitin Nair,Kolkata,West Bengal,East,1999,25,29500000,Under Renovation
+BR246,Kolkata Branch 246,Retail,Neha Patel,Kolkata,West Bengal,East,2003,16,44100000,Active
+BR247,Bhubaneswar Branch 247,Digital,Priya Patel,Bhubaneswar,Odisha,East,2014,69,39100000,Active
+BR248,Hyderabad Branch 248,Corporate,Sneha Sharma,Hyderabad,Telangana,South,2017,64,27800000,Temporarily Closed
+BR249,Bhubaneswar Branch 249,Corporate,Riya Gupta,Bhubaneswar,Odisha,East,2000,109,25500000,Temporarily Closed
+BR250,Kochi Branch 250,Retail,Anjali Joshi,Kochi,Kerala,South,2019,80,6400000,Under Renovation
